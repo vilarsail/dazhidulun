@@ -15,7 +15,7 @@ def check_files(start_idx, end_idx):
             
         # 读取原始文本并分段（过滤空行）
         with open(txt_path, 'r', encoding='utf-8') as f:
-            txt_lines = [line.strip() for line in f.readlines() if line.strip()]
+            txt_lines = re.findall(r'^\d+\.\s+(.*?)(?=\n\n\d+\.\s+|\Z)', f.read(), re.MULTILINE | re.DOTALL)
             
         # 读取 Markdown 并提取编号段落中的原文
         # 匹配格式如: 1. 原文内容
@@ -23,7 +23,7 @@ def check_files(start_idx, end_idx):
             md_content = f.read()
             # 提取所有编号开头的行中的原文内容（不含序号部分）
             # 逻辑：查找形如 "n. 内容" 的行
-            md_segments = re.findall(r'^\d+\.\s+(.*)$', md_content, re.MULTILINE)
+            md_segments = re.findall(r'^\d+\.\s+(.*?)(?=\n\n\*(?:.*?)\*|\n\n\*\*(?:.*?)\*\*|(?:\n\n\d+\.\s+)|\Z)', md_content, re.MULTILINE | re.DOTALL)
             md_segments = [s.strip() for s in md_segments]
 
         missing = []
