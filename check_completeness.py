@@ -2,9 +2,14 @@ import os
 import sys
 import json
 import re
+import difflib
 
 def clean_chinese(text):
     return re.sub(r'[^\u4e00-\u9fa5]', '', text)
+
+def get_similarity(a, b):
+    if not a or not b: return 0
+    return difflib.SequenceMatcher(None, a, b).ratio()
 
 def check_files(start_idx, end_idx):
     report = {}
@@ -35,10 +40,25 @@ def check_files(start_idx, end_idx):
             if idx_in_md != -1:
                 md_ptr = idx_in_md + len(clean_txt)
             else:
-                missing.append({
-                    "txt_index": txt_idx + 1,
-                    "original_content": txt_text
-                })
+                # Fuzzy search
+                c_len = len(clean_txt)
+                best_score = 0
+                best_idx = -1
+                window_size = min(2000, len(md_chars_str) - md_ptr)
+                for j in range(md_ptr, md_ptr + window_size - c_len + 1):
+                    sim = get_similarity(clean_txt, md_chars_str[j:j+c_len])
+                    if sim > best_score:
+                        best_score = sim
+                        best_idx = j
+                        if best_score > 0.95: break
+
+                if best_score > 0.8:
+                    md_ptr = best_idx + c_len
+                else:
+                    missing.append({
+                        "txt_index": txt_idx + 1,
+                        "original_content": txt_text
+                    })
 
         report[str(i)] = {
             "status": "incomplete" if missing else "complete",
