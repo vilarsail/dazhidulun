@@ -1,249 +1,4 @@
 {
-  "1": {
-    "status": "complete",
-    "total_txt_paragraphs": 246,
-    "found_md_segments": 246,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "2": {
-    "status": "complete",
-    "total_txt_paragraphs": 261,
-    "found_md_segments": 261,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "3": {
-    "status": "complete",
-    "total_txt_paragraphs": 415,
-    "found_md_segments": 415,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "4": {
-    "status": "complete",
-    "total_txt_paragraphs": 418,
-    "found_md_segments": 418,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "5": {
-    "status": "complete",
-    "total_txt_paragraphs": 318,
-    "found_md_segments": 318,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "6": {
-    "status": "complete",
-    "total_txt_paragraphs": 319,
-    "found_md_segments": 319,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "7": {
-    "status": "complete",
-    "total_txt_paragraphs": 338,
-    "found_md_segments": 338,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "8": {
-    "status": "complete",
-    "total_txt_paragraphs": 445,
-    "found_md_segments": 445,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "9": {
-    "status": "complete",
-    "total_txt_paragraphs": 270,
-    "found_md_segments": 270,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "10": {
-    "status": "complete",
-    "total_txt_paragraphs": 564,
-    "found_md_segments": 564,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "11": {
-    "status": "complete",
-    "total_txt_paragraphs": 267,
-    "found_md_segments": 267,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "12": {
-    "status": "complete",
-    "total_txt_paragraphs": 266,
-    "found_md_segments": 266,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "13": {
-    "status": "complete",
-    "total_txt_paragraphs": 433,
-    "found_md_segments": 433,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "14": {
-    "status": "complete",
-    "total_txt_paragraphs": 244,
-    "found_md_segments": 244,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "15": {
-    "status": "complete",
-    "total_txt_paragraphs": 216,
-    "found_md_segments": 216,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "16": {
-    "status": "complete",
-    "total_txt_paragraphs": 189,
-    "found_md_segments": 189,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "17": {
-    "status": "complete",
-    "total_txt_paragraphs": 292,
-    "found_md_segments": 292,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "18": {
-    "status": "complete",
-    "total_txt_paragraphs": 349,
-    "found_md_segments": 349,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "19": {
-    "status": "complete",
-    "total_txt_paragraphs": 449,
-    "found_md_segments": 449,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "20": {
-    "status": "complete",
-    "total_txt_paragraphs": 374,
-    "found_md_segments": 374,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "21": {
-    "status": "complete",
-    "total_txt_paragraphs": 294,
-    "found_md_segments": 294,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "22": {
-    "status": "complete",
-    "total_txt_paragraphs": 338,
-    "found_md_segments": 338,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "23": {
-    "status": "complete",
-    "total_txt_paragraphs": 324,
-    "found_md_segments": 324,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "24": {
-    "status": "complete",
-    "total_txt_paragraphs": 277,
-    "found_md_segments": 277,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "25": {
-    "status": "complete",
-    "total_txt_paragraphs": 274,
-    "found_md_segments": 274,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "26": {
-    "status": "complete",
-    "total_txt_paragraphs": 444,
-    "found_md_segments": 444,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "27": {
-    "status": "complete",
-    "total_txt_paragraphs": 393,
-    "found_md_segments": 393,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "28": {
-    "status": "complete",
-    "total_txt_paragraphs": 375,
-    "found_md_segments": 375,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "29": {
-    "status": "complete",
-    "total_txt_paragraphs": 307,
-    "found_md_segments": 307,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "30": {
-    "status": "complete",
-    "total_txt_paragraphs": 344,
-    "found_md_segments": 344,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "31": {
-    "status": "complete",
-    "total_txt_paragraphs": 572,
-    "found_md_segments": 572,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "32": {
-    "status": "complete",
-    "total_txt_paragraphs": 316,
-    "found_md_segments": 316,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "33": {
-    "status": "complete",
-    "total_txt_paragraphs": 256,
-    "found_md_segments": 256,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "34": {
-    "status": "complete",
-    "total_txt_paragraphs": 365,
-    "found_md_segments": 365,
-    "missing_count": 0,
-    "missing_details": []
-  },
-  "35": {
-    "status": "complete",
-    "total_txt_paragraphs": 423,
-    "found_md_segments": 423,
-    "missing_count": 0,
-    "missing_details": []
-  },
   "36": {
     "status": "complete",
     "total_txt_paragraphs": 416,
@@ -252,18 +7,2136 @@
     "missing_details": []
   },
   "37": {
-    "status": "complete",
+    "status": "incomplete",
     "total_txt_paragraphs": 427,
     "found_md_segments": 427,
-    "missing_count": 0,
-    "missing_details": []
+    "missing_count": 359,
+    "missing_details": [
+      {
+        "txt_index": 11,
+        "original_content": "菩萨行般若波罗蜜，不观萨婆若与过去世同。何以故？"
+      },
+      {
+        "txt_index": 12,
+        "original_content": "过去世是虚妄，萨婆若是实法；过去世是生灭相，萨婆若非生灭相。"
+      },
+      {
+        "txt_index": 13,
+        "original_content": "过去世及法求觅不可得，何况萨婆若与过去世合！"
+      },
+      {
+        "txt_index": 14,
+        "original_content": "复次，佛自说因缘：“菩萨摩诃萨行般若波罗蜜，不见过去世，何况萨婆若与过去世合！”"
+      },
+      {
+        "txt_index": 15,
+        "original_content": "未来、现在世亦如是。未来世除生灭相，其余义同。"
+      },
+      {
+        "txt_index": 16,
+        "original_content": "复次，以时故说有三世：过去、未来、现在。"
+      },
+      {
+        "txt_index": 17,
+        "original_content": "“时”义，如“一时”中说。"
+      },
+      {
+        "txt_index": 18,
+        "original_content": "复次，萨婆若是十方三世诸佛真实智慧；三世者，从凡夫虚妄生，云何与萨婆若合？譬如真金不与弊铁同相。"
+      },
+      {
+        "txt_index": 20,
+        "original_content": "如〈随喜品〉中说：“菩萨摩诃萨念过去、现在诸佛萨婆若智慧等诸功德，回向阿耨多罗三藐三菩提”，云何言“过去、现在世不与萨婆若合”？"
+      },
+      {
+        "txt_index": 22,
+        "original_content": "若以着心取相念萨婆若者，不名回向阿耨多罗三藐三菩提。譬如杂毒食，初虽香美，后不便身。若菩萨分别过去、现在诸佛萨婆若者，应与三世合；今不取相故，则无有合。"
+      },
+      {
+        "txt_index": 24,
+        "original_content": "菩萨亦念“未来世当成佛萨婆若”，亦自念“我当得萨婆若”，是名“与未来世萨婆若合”，云何言“不合”？"
+      },
+      {
+        "txt_index": 26,
+        "original_content": "萨婆若过三界，出三世，毕竟清净相；行者但以忆想分别：“我当得是萨婆若。”如世间法，忆想当有所得，而是事未生未有，时节未至，因缘未会，都无处所，云何当与合？"
+      },
+      {
+        "txt_index": 27,
+        "original_content": "如明当服苏，今已忆臭。"
+      },
+      {
+        "txt_index": 28,
+        "original_content": "又如迦栴延弟子辈言：“未来世中菩提语菩萨言：‘若能修相好身者，我当来处之。’如贵家女自恣无难，遣使语贫家子言：‘汝好庄严房舍帏帐，种种备具，我当来处汝家中。’”如是说者，是不如法。"
+      },
+      {
+        "txt_index": 29,
+        "original_content": "以是故，不得以萨婆若与三世合。"
+      },
+      {
+        "txt_index": 31,
+        "original_content": "余法甚多，何以但说萨婆若？"
+      },
+      {
+        "txt_index": 33,
+        "original_content": "是萨婆若，菩萨所归趣，深心欲得，于三世中求索故。"
+      },
+      {
+        "txt_index": 35,
+        "original_content": "何以不于有为、无为法中求？"
+      },
+      {
+        "txt_index": 37,
+        "original_content": "后当说一切法中求。"
+      },
+      {
+        "txt_index": 39,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，色不与萨婆若合，色不可见故；受、想、行、识亦如是。"
+      },
+      {
+        "txt_index": 40,
+        "original_content": "“眼不与萨婆若合，眼不可见故；耳、鼻、舌、身、意亦如是。"
+      },
+      {
+        "txt_index": 41,
+        "original_content": "“色不与萨婆若合，色不可见故；声、香、味、触、法亦如是。"
+      },
+      {
+        "txt_index": 42,
+        "original_content": "“舍利弗！菩萨摩诃萨如是习应，名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 45,
+        "original_content": "何以但说五众、十二入，不说十八界、十二因缘？"
+      },
+      {
+        "txt_index": 47,
+        "original_content": "应当说，或时诵者忘失。何以知之？"
+      },
+      {
+        "txt_index": 48,
+        "original_content": "佛所说五众、十二入、十八界、十二因缘，事、垢、净。"
+      },
+      {
+        "txt_index": 49,
+        "original_content": "五众、十八界、十二入、十二因缘名为事；不定是垢、不定是净；是中或有结使生，或有善法生；如田定能生物，随种皆生。众、界、入、十二因缘，是为事；六波罗蜜乃至一切种智，是为净种。"
+      },
+      {
+        "txt_index": 50,
+        "original_content": "所以不说垢者，是菩萨结使已薄，不以自恼，是故不说。"
+      },
+      {
+        "txt_index": 51,
+        "original_content": "又菩萨智慧深入，解诸法空，无诸烦恼，但集诸功德。"
+      },
+      {
+        "txt_index": 52,
+        "original_content": "以是故，应说十八界、十二因缘。"
+      },
+      {
+        "txt_index": 53,
+        "original_content": "如色等事中不应有萨婆若合，所以者何？"
+      },
+      {
+        "txt_index": 54,
+        "original_content": "是萨婆若，三世中不可得故，色等事中亦不可得；是皆世间因缘和合，无有定性。"
+      },
+      {
+        "txt_index": 56,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，檀波罗蜜不与萨婆若合，檀波罗蜜不可见故；乃至般若波罗蜜亦如是。四念处不与萨婆若合，四念处不可见故；乃至八圣道分亦如是。”"
+      },
+      {
+        "txt_index": 59,
+        "original_content": "五众等是世间法，可不与萨婆若合，六波罗蜜云何不与合？"
+      },
+      {
+        "txt_index": 61,
+        "original_content": "六波罗蜜有二种：一者、世间，二者、出世间。"
+      },
+      {
+        "txt_index": 62,
+        "original_content": "为世间檀波罗蜜故，说不与合；出世间檀波罗蜜，应与合。"
+      },
+      {
+        "txt_index": 63,
+        "original_content": "复次，菩萨行六波罗蜜，漏结未尽，不得与佛萨婆若合。"
+      },
+      {
+        "txt_index": 64,
+        "original_content": "复次，佛说六波罗蜜空，尚不可见，何况与萨婆若合！"
+      },
+      {
+        "txt_index": 65,
+        "original_content": "三十七品亦如是。"
+      },
+      {
+        "txt_index": 67,
+        "original_content": "是六波罗蜜，杂有道、俗故；三十七品趣涅槃道，云何不合？"
+      },
+      {
+        "txt_index": 69,
+        "original_content": "三十七品是二乘法，但为涅槃；菩萨为佛道，是故不合。"
+      },
+      {
+        "txt_index": 71,
+        "original_content": "〈摩诃衍品〉中，有三十七品亦是菩萨道，云何不与萨婆若合？"
+      },
+      {
+        "txt_index": 73,
+        "original_content": "有菩萨以着心故，行三十七品，多回向涅槃，是故佛说不合。"
+      },
+      {
+        "txt_index": 75,
+        "original_content": "“佛十力，乃至十八不共法不与萨婆若合，佛十力乃至十八不共法不可见故。舍利弗！菩萨摩诃萨如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 78,
+        "original_content": "是十力乃至十八不共法，虽是妙法，为萨婆若故行；以菩萨漏结未尽，故不应与萨婆若合。"
+      },
+      {
+        "txt_index": 79,
+        "original_content": "复次，佛十力等法有三种："
+      },
+      {
+        "txt_index": 80,
+        "original_content": "一者、菩萨所行，虽未得佛道，渐渐修习；二者、佛所得，而菩萨忆想分别求之；三者、佛心所得。"
+      },
+      {
+        "txt_index": 81,
+        "original_content": "上二种不应与合；下一种虽可合，而菩萨未得，是故不合。"
+      },
+      {
+        "txt_index": 82,
+        "original_content": "复次，空故不可见，不可见故不合。是以皆言“不可见故”。"
+      },
+      {
+        "txt_index": 84,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，佛不与萨婆若合，萨婆若不与佛合；菩提不与萨婆若合，萨婆若不与菩提合。”"
+      },
+      {
+        "txt_index": 87,
+        "original_content": "菩萨及菩萨法，可不与萨婆若合；云何佛及菩提复不与合？"
+      },
+      {
+        "txt_index": 89,
+        "original_content": "佛是人，萨婆若是法；人是假名，法是因缘。"
+      },
+      {
+        "txt_index": 90,
+        "original_content": "众生乃至知者、见者无故，佛亦无；众生中尊上第一，是名为佛，是故不合。"
+      },
+      {
+        "txt_index": 91,
+        "original_content": "复次，得萨婆若故名为佛；若佛得萨婆若，先以是佛，不须萨婆若；若非佛得萨婆若者，何以言“佛得萨婆若”？以是故，和合因缘生，不得言先后。"
+      },
+      {
+        "txt_index": 92,
+        "original_content": "复次，离佛无萨婆若，离萨婆若无佛；得萨婆若故名佛，佛所有故名萨婆若。"
+      },
+      {
+        "txt_index": 94,
+        "original_content": "佛是人故可不与合，菩提是无上道，云何不合？"
+      },
+      {
+        "txt_index": 96,
+        "original_content": "菩提名为佛智慧，萨婆若名为佛一切智慧；十力智为菩提，第十一如实智名为萨婆若；二智不得一心中生。"
+      },
+      {
+        "txt_index": 97,
+        "original_content": "复次，是十力等诸佛法及佛菩提，皆是菩萨忆想分别非实，唯佛所得萨婆若是实。今此菩提，是菩萨菩提，是心中虚妄未实，云何与萨婆若合？"
+      },
+      {
+        "txt_index": 98,
+        "original_content": "复次，此经中，佛自说不合因缘："
+      },
+      {
+        "txt_index": 100,
+        "original_content": "“何以故？佛即是萨婆若，萨婆若即是佛；菩提即是萨婆若，萨婆若即是菩提。舍利弗！菩萨摩诃萨行般若波罗蜜，如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 101,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，不习色有、不习色无，受、想、行、识亦如是；不习色有常、不习色无常，受、想、行、识亦如是；不习色苦、不习色乐，受、想、行、识亦如是；不习色我、不习色非我，受、想、行、识亦如是；不习色寂灭、不习色非寂灭，受、想、行、识亦如是；不习色空、不习色非空，受、想、行、识亦如是；不习色有相、不习色无相，受、想、行、识亦如是；不习色有作、不习色无作，受、想、行、识亦如是。"
+      },
+      {
+        "txt_index": 102,
+        "original_content": "“是菩萨摩诃萨行般若波罗蜜时，不作是念：‘我行般若波罗蜜、不行般若波罗蜜、非行非不行般若波罗蜜。’"
+      },
+      {
+        "txt_index": 106,
+        "original_content": "若菩萨观五众非有、非无，于是亦不着；尔时，与般若波罗蜜相应。"
+      },
+      {
+        "txt_index": 107,
+        "original_content": "所以者何？"
+      },
+      {
+        "txt_index": 108,
+        "original_content": "一切世间着二见：若有，若无。"
+      },
+      {
+        "txt_index": 109,
+        "original_content": "顺生死流者多著有，逆生死流者多着无；我见多者著有，邪见多者着无。"
+      },
+      {
+        "txt_index": 110,
+        "original_content": "复次，四见多者著有；邪见多者着无。"
+      },
+      {
+        "txt_index": 111,
+        "original_content": "二毒多者著有；无明多者着无。"
+      },
+      {
+        "txt_index": 112,
+        "original_content": "不知五众因缘集生著有；不知集者着无。"
+      },
+      {
+        "txt_index": 113,
+        "original_content": "近恶知识及邪见外书故，堕断灭、无罪福中，无见者着无；余者著有。"
+      },
+      {
+        "txt_index": 114,
+        "original_content": "或有众生谓一切皆空，心着是空；着是空故，名为“无见”。"
+      },
+      {
+        "txt_index": 115,
+        "original_content": "或有众生谓一切六根所知法皆有，是为“有见”。"
+      },
+      {
+        "txt_index": 116,
+        "original_content": "爱多者著有见；见多者着无见。"
+      },
+      {
+        "txt_index": 117,
+        "original_content": "如是等众生著有见、无见。"
+      },
+      {
+        "txt_index": 118,
+        "original_content": "是二种见，虚妄非实，破中道。"
+      },
+      {
+        "txt_index": 119,
+        "original_content": "譬如人行狭道，一边深水，一边大火，二边俱死；著有、着无，二事俱失。"
+      },
+      {
+        "txt_index": 120,
+        "original_content": "所以者何？"
+      },
+      {
+        "txt_index": 121,
+        "original_content": "若诸法定实有，则无因缘；若从因缘和合生，是法无自性，若无自性即是空！"
+      },
+      {
+        "txt_index": 122,
+        "original_content": "若无法是实，则无罪福，无缚无解，亦无诸法种种之异。"
+      },
+      {
+        "txt_index": 123,
+        "original_content": "复次，有见者与无见者相违，相违故有是非，是非故共诤，有诤故起诸结使，结使故生业，生业故开恶道门；实相中无有相违、是非、斗诤！"
+      },
+      {
+        "txt_index": 124,
+        "original_content": "复次，著有者，事若无常，则生忧恼；若着无者，作诸罪业，死堕地狱受苦。"
+      },
+      {
+        "txt_index": 125,
+        "original_content": "不著有无者，无有如是等种种过失；应舍是则得实。"
+      },
+      {
+        "txt_index": 126,
+        "original_content": "复次，是五众若常、若无常，是事不然！所以者何？"
+      },
+      {
+        "txt_index": 127,
+        "original_content": "若五众常，则无生无灭，无生无灭故则无罪福，无罪福故则无善恶果报，世间如涅槃不坏相。如是妄语，谁当信者！"
+      },
+      {
+        "txt_index": 128,
+        "original_content": "现见死亡啼哭，是则众生无常；如草木雕落，华果磨灭，是则外物无常；大劫尽时，一切都灭，是为大无常。"
+      },
+      {
+        "txt_index": 129,
+        "original_content": "如是等种种因缘，如是五众常不可得。"
+      },
+      {
+        "txt_index": 130,
+        "original_content": "复次，无常破常，不应以无常为是。所以者何？"
+      },
+      {
+        "txt_index": 131,
+        "original_content": "若诸法无常相，念念皆灭，则六情不能取六尘。"
+      },
+      {
+        "txt_index": 132,
+        "original_content": "所以者何？内心、外尘俱无住故，不应得缘，不应得知，亦无修习因缘果报！"
+      },
+      {
+        "txt_index": 133,
+        "original_content": "因缘多故，果报亦多，此事不应得。"
+      },
+      {
+        "txt_index": 134,
+        "original_content": "又以有常见与无常见共诤。"
+      },
+      {
+        "txt_index": 135,
+        "original_content": "如是等种种因缘，五众无常则不可得。"
+      },
+      {
+        "txt_index": 136,
+        "original_content": "苦乐、我非我、若空若实、有相无相、有作无作，此义如先处处说。"
+      },
+      {
+        "txt_index": 137,
+        "original_content": "“五众寂灭”者，因缘生故无性，无性故寂灭，寂灭故如涅槃。"
+      },
+      {
+        "txt_index": 138,
+        "original_content": "三毒炽然故不寂灭，无常火然故不寂灭，不着三毒实相故不寂灭，三毒各各分别相故不寂灭。此义先未说，故今是中说。"
+      },
+      {
+        "txt_index": 139,
+        "original_content": "若菩萨摩诃萨能如是离二边，行中道。"
+      },
+      {
+        "txt_index": 140,
+        "original_content": "“行般若波罗蜜”亦不着。所以者何？菩萨不可得，般若波罗蜜亦不可得故。"
+      },
+      {
+        "txt_index": 141,
+        "original_content": "“不行般若波罗蜜”亦不着。所以者何？余诸凡夫不能如菩萨观诸法实相，云何当言“我不行般若波罗蜜”？"
+      },
+      {
+        "txt_index": 142,
+        "original_content": "“行、不行”亦不着，二俱过故。"
+      },
+      {
+        "txt_index": 143,
+        "original_content": "是名与般若波罗蜜相应相。"
+      },
+      {
+        "txt_index": 145,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨不为般若波罗蜜故行般若波罗蜜，不为檀波罗蜜、尸罗波罗蜜、羼提波罗蜜、毗梨耶波罗蜜、禅波罗蜜故行般若波罗蜜；不为阿鞞跋致地故行般若波罗蜜，不为成就众生故行般若波罗蜜，不为净佛世界故行般若波罗蜜；不为佛十力、四无所畏、四无碍智、十八不共法故行般若波罗蜜；不为内空故行般若波罗蜜，不为外空、内外空、空空、大空、第一义空、有为空、无为空、毕竟空、无始空、散空、性空、诸法空、自相空、不可得空、无法空、有法空、无法有法空故行般若波罗蜜；不为如、法性、实际故行般若波罗蜜。何以故？是菩萨摩诃萨行般若波罗蜜时，不坏诸法相故。"
+      },
+      {
+        "txt_index": 149,
+        "original_content": "六波罗蜜乃至如、法性、实际，此是佛法。"
+      },
+      {
+        "txt_index": 150,
+        "original_content": "菩萨若不为是佛法故行般若波罗蜜，更有何法可为行般若波罗蜜？"
+      },
+      {
+        "txt_index": 152,
+        "original_content": "如佛此中自说：“诸法无有破坏者。”"
+      },
+      {
+        "txt_index": 153,
+        "original_content": "不坏诸法相故，亦不分别是檀、是悭，乃至是三界、是实际。"
+      },
+      {
+        "txt_index": 154,
+        "original_content": "复次，有菩萨于此善法，深心系着，以系着故能生罪；为是人故，说：“是六波罗蜜乃至实际皆空，无有自性，如梦如幻，汝莫生着！真菩萨不为是故行。”"
+      },
+      {
+        "txt_index": 155,
+        "original_content": "有菩萨心无所著，行六波罗蜜乃至实际；为是人故，说为是事故行般若波罗蜜。如〈后品〉中说：“为具足六波罗蜜，乃至为教化众生、净佛世界故，行般若波罗蜜。”"
+      },
+      {
+        "txt_index": 157,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，不为如意神通故行般若波罗蜜，不为天耳故、不为他心智故、不为宿命智故、不为天眼故、不为漏尽神通故行般若波罗蜜。何以故？菩萨摩诃萨行般若波罗蜜，尚不见般若波罗蜜，何况见菩萨神通！舍利弗！菩萨摩诃萨如是行，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 160,
+        "original_content": "先说“禅波罗蜜”中，已具说五神通，今何以复重说？"
+      },
+      {
+        "txt_index": 162,
+        "original_content": "彼中总相说，不列名字；此中别相说。"
+      },
+      {
+        "txt_index": 163,
+        "original_content": "复次，功德果报，所谓五神通；菩萨得是五神通，广能利益众生。"
+      },
+      {
+        "txt_index": 164,
+        "original_content": "复次，虽有慈悲、般若波罗蜜，无五神通者，如鸟无两翼，不能高翔；如健人无诸器杖而入敌阵；如树无华果，无所饶益；如枯渠无水，无所润及；以是故重说五神通，及余无量佛法中别说，无咎。"
+      },
+      {
+        "txt_index": 166,
+        "original_content": "若尔者，佛何以言“莫为五神通故行般若波罗蜜”？"
+      },
+      {
+        "txt_index": 168,
+        "original_content": "多有无方便菩萨，得五神通，轻余菩萨，心生憍高，为是故说。"
+      },
+      {
+        "txt_index": 169,
+        "original_content": "所以者何？菩萨于般若波罗蜜诸佛之母尚不着，何况五神通！"
+      },
+      {
+        "txt_index": 170,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 171,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，不作是念：‘我以如意神通，飞到东方，供养恭敬如恒河沙等诸佛。’南西北方、四维、上下亦如是。"
+      },
+      {
+        "txt_index": 172,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，不作是念：‘我以天耳，闻十方诸佛所说法。’不作是念：‘我以他心智，当知十方众生心所念。’不作是念：‘我以宿命通，知十方众生宿命所作。’不作是念：‘我以天眼，见十方众生死此生彼。’"
+      },
+      {
+        "txt_index": 173,
+        "original_content": "“舍利弗！菩萨摩诃萨如是行，是名与般若波罗蜜相应，亦能度无量阿僧祇众生。”"
+      },
+      {
+        "txt_index": 174,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 175,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 176,
+        "original_content": "先虽说五神通名，今此中说其功用。"
+      },
+      {
+        "txt_index": 178,
+        "original_content": "菩萨何以故不作是念：“我以如意神通，飞到十方，供养恭敬如恒河沙等诸佛”？"
+      },
+      {
+        "txt_index": 180,
+        "original_content": "已拔我见根本故，已摧破憍慢山故，善修三解脱门、三三昧故。佛身虽妙，亦入三解脱门；如热金丸，虽见色妙，不可手触。"
+      },
+      {
+        "txt_index": 181,
+        "original_content": "又诸法如幻如化，无来无去，无近无远，无有定相。如幻化人谁去谁来？不取神通、国土、此彼、近远相，故无咎！"
+      },
+      {
+        "txt_index": 182,
+        "original_content": "若能在佛前住于禅定，变为无量身，至十方供养诸佛，无所分别，已断法爱故。"
+      },
+      {
+        "txt_index": 183,
+        "original_content": "余通亦如是。"
+      },
+      {
+        "txt_index": 184,
+        "original_content": "菩萨得是五神通，为供养诸佛故，变无量身，显大神力，于十方世界三恶趣中，度无量众生，如〈往生品〉中说。"
+      },
+      {
+        "txt_index": 185,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 186,
+        "original_content": "“舍利弗！菩萨摩诃萨能如是行般若波罗蜜，恶魔不能得其便；世间众事，所欲随意；十方各如恒河沙等诸佛，皆悉拥护是菩萨，令不堕声闻、辟支佛地；四天王天乃至阿迦尼吒天，皆亦拥护是菩萨，不令有碍；是菩萨所有重罪，现世轻受。何以故？是菩萨摩诃萨用普慈加众生故。"
+      },
+      {
+        "txt_index": 187,
+        "original_content": "“舍利弗！是菩萨摩诃萨如是行，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 188,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 189,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 190,
+        "original_content": "今赞是菩萨，如上行般若波罗蜜得大功德，是名菩萨智慧功力果报，得此五利。"
+      },
+      {
+        "txt_index": 192,
+        "original_content": "魔是欲界主，菩萨是人，肉眼不得自在，云何不能得其便？"
+      },
+      {
+        "txt_index": 194,
+        "original_content": "如此中佛自说：“诸佛、诸大天拥护故。”"
+      },
+      {
+        "txt_index": 195,
+        "original_content": "复次，是菩萨行毕竟不可得自相空故，于一切法中皆不着，不着故无违错，无违错故魔不能得其便。"
+      },
+      {
+        "txt_index": 196,
+        "original_content": "譬如人身不疮，虽卧毒屑中，毒亦不入；若有小疮则死无疑。"
+      },
+      {
+        "txt_index": 197,
+        "original_content": "又是菩萨于诸佛中心不着、于诸魔中心不瞋，是故魔不得便。"
+      },
+      {
+        "txt_index": 198,
+        "original_content": "复次，菩萨深入忍波罗蜜、慈三昧故，一切外恶不能中伤，所谓水火、刀兵等。"
+      },
+      {
+        "txt_index": 199,
+        "original_content": "世间众事者，资生所须，所谓治生谐偶，种莳果树，旷路作井，安立客舍，如法理事，皆得如意。"
+      },
+      {
+        "txt_index": 200,
+        "original_content": "若欲造立塔寺，作大福德，若作大施，若欲说法教度众生，皆得如意。"
+      },
+      {
+        "txt_index": 201,
+        "original_content": "如是等世间众事，若大若小，皆得如法随意。所以者何？"
+      },
+      {
+        "txt_index": 202,
+        "original_content": "是菩萨世世集无量福德、智慧因缘故。"
+      },
+      {
+        "txt_index": 203,
+        "original_content": "复次，是菩萨行般若波罗蜜，于一切法中心不着，心不着故结使薄，结使薄故能生深厚善根，深厚善根生故所愿如意。"
+      },
+      {
+        "txt_index": 204,
+        "original_content": "复次，是菩萨行般若波罗蜜故，诸大天皆敬念是菩萨，赞叹称扬其名；诸龙鬼等闻诸天称说，亦来助成其事，是故世间众事皆得如意。"
+      },
+      {
+        "txt_index": 205,
+        "original_content": "复次，是菩萨为诸佛所念、威德所加，皆得如意。"
+      },
+      {
+        "txt_index": 207,
+        "original_content": "十方诸佛心等，何以偏念是菩萨？"
+      },
+      {
+        "txt_index": 209,
+        "original_content": "是菩萨智慧功德大故，诸佛心虽平等，法应念是菩萨，以劝进余人。"
+      },
+      {
+        "txt_index": 210,
+        "original_content": "又是菩萨得佛智慧气分故；别知善恶，赏念好人，无过于佛，是故佛念。"
+      },
+      {
+        "txt_index": 211,
+        "original_content": "复次，佛念不欲令堕声闻、辟支佛故。所以者何？入空、无相、无作，以佛念故而不堕落；譬如鱼子，母念故得生，不念则坏。"
+      },
+      {
+        "txt_index": 212,
+        "original_content": "“诸大天拥护”者，不欲令失其所行，诸天效佛念故。"
+      },
+      {
+        "txt_index": 213,
+        "original_content": "又诸天以菩萨行般若波罗蜜，都无所著，不乐世乐，但欲教化众生故，住于世间，知其尊贵故念。"
+      },
+      {
+        "txt_index": 214,
+        "original_content": "“所有重罪”者，先世重罪，应入地狱，以行般若波罗蜜故，现世轻受；譬如重囚应死，有势力者护，则受鞭杖而已。"
+      },
+      {
+        "txt_index": 215,
+        "original_content": "又如王子虽作重罪，以轻罚除之，以是王种中生故；菩萨亦如是，能行是般若波罗蜜得实智慧故，即入佛种中生；佛种中生故，虽有重罪，云何重受？"
+      },
+      {
+        "txt_index": 216,
+        "original_content": "复次，譬如铁器中空，故在水能浮，中实则没。菩萨亦如是，行般若波罗蜜智慧心虚故，不没重罪；凡人无智慧故，沉没重罪。"
+      },
+      {
+        "txt_index": 217,
+        "original_content": "复次，佛此中自说因缘：所以得五功德者，用普慈加众生故。"
+      },
+      {
+        "txt_index": 219,
+        "original_content": "先言“行般若波罗蜜故，具五功德”；今何以言“用普慈加众生故”？"
+      },
+      {
+        "txt_index": 221,
+        "original_content": "能生无量福，无过于慈；是慈因般若波罗蜜生，得无量利益。"
+      },
+      {
+        "txt_index": 222,
+        "original_content": "复次，恶魔不得便、诸佛所念、重罪今世轻受，是般若波罗蜜力；世间众事所欲随意、诸天拥护，是大慈力。"
+      },
+      {
+        "txt_index": 223,
+        "original_content": "复次，有二种缘：一者、众生，二者、法。"
+      },
+      {
+        "txt_index": 224,
+        "original_content": "是菩萨若缘众生则是慈心；若缘法则是行般若波罗蜜。"
+      },
+      {
+        "txt_index": 225,
+        "original_content": "是慈从般若波罗蜜生，随顺般若波罗蜜教，是故说慈无咎。"
+      },
+      {
+        "txt_index": 226,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 227,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，疾得诸陀罗尼门、诸三昧门，在所生处常值诸佛，乃至得阿耨多罗三藐三菩提，初不离见佛。舍利弗！菩萨摩诃萨如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 228,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 229,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 230,
+        "original_content": "“陀罗尼、三昧门”，如先说。"
+      },
+      {
+        "txt_index": 231,
+        "original_content": "“疾得”者，福德因缘故心柔软；行深般若波罗蜜故，智慧心利；以是故疾得。如上说五功德故疾得。"
+      },
+      {
+        "txt_index": 232,
+        "original_content": "“所生处常值诸佛”者，是菩萨除诸佛母般若波罗蜜，其余一切众事皆不爱着；是以在所生处，常值诸佛。"
+      },
+      {
+        "txt_index": 233,
+        "original_content": "如人常喜斗诤，生还活地狱，复执刀杖共相加害。"
+      },
+      {
+        "txt_index": 234,
+        "original_content": "淫欲多故，常受胞胎；又作淫鸟。"
+      },
+      {
+        "txt_index": 235,
+        "original_content": "瞋恚多故，还生毒兽、蛇虺之属。"
+      },
+      {
+        "txt_index": 236,
+        "original_content": "愚痴多者，如灯蛾赴火，地中隐虫等。"
+      },
+      {
+        "txt_index": 237,
+        "original_content": "是诸菩萨爱敬于佛、及实相般若波罗蜜、及修念佛三昧业故，所生处常值诸佛。"
+      },
+      {
+        "txt_index": 238,
+        "original_content": "复次，如先“菩萨愿见诸佛”中说“终不离见佛”者。"
+      },
+      {
+        "txt_index": 239,
+        "original_content": "又人虽一世见佛，更不复值。"
+      },
+      {
+        "txt_index": 240,
+        "original_content": "如毗婆尸佛时，王师婆罗门，虽得见佛及僧，而恶口毁呰，言：“此人等如畜生，不别好人，见我不起。”以是罪故，经九十一劫堕畜生中。"
+      },
+      {
+        "txt_index": 241,
+        "original_content": "复次，深念佛故，终不离佛；世世善修念佛三昧故；不失菩萨心故；作不离佛愿；愿生在佛世故；种值佛业缘常相续不断故，乃至阿耨多罗三藐三菩提，终不离见佛。"
+      },
+      {
+        "txt_index": 242,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 243,
+        "original_content": "此是果报事，云何说与般若波罗蜜相应？"
+      },
+      {
+        "txt_index": 244,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 245,
+        "original_content": "般若波罗蜜相应故值佛，或时果中说因故。"
+      },
+      {
+        "txt_index": 246,
+        "original_content": "相应有二种：一者、心相应；二者、应菩萨行，所谓生好处，值遇诸佛，常闻法，正忆念——是名相应。"
+      },
+      {
+        "txt_index": 247,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 248,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，不作是念：‘有法与法若合若不合、若等若不等。’何以故？是菩萨摩诃萨，不见是法与余法若合若不合、若等若不等。舍利弗！菩萨摩诃萨如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 249,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 250,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 251,
+        "original_content": "一切法，无有法与法共合者，何以故？诸法无少分合故。"
+      },
+      {
+        "txt_index": 252,
+        "original_content": "譬如二指有四方，其一方合，三方不合，不合多故，何以不名为不合？"
+      },
+      {
+        "txt_index": 253,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 254,
+        "original_content": "以有合处故名为合，云何言“不合”？"
+      },
+      {
+        "txt_index": 255,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 256,
+        "original_content": "合处不为指，是指分，但是指分，更无指法。以二指相近故，假名为合，更无合法。"
+      },
+      {
+        "txt_index": 257,
+        "original_content": "复次，色、香、味、触，总名为指；但触有合力，余三无合。以是故，不得言指合。"
+      },
+      {
+        "txt_index": 258,
+        "original_content": "复次，如异类同处，不名为合，相各异故。"
+      },
+      {
+        "txt_index": 259,
+        "original_content": "诸法亦尔，地相地中、水相水中、火相火中，如是性异，不名为合。"
+      },
+      {
+        "txt_index": 260,
+        "original_content": "以是故言，无有法与法合，若合若不合。"
+      },
+      {
+        "txt_index": 261,
+        "original_content": "“等”者，一切法一相故名“等”。"
+      },
+      {
+        "txt_index": 262,
+        "original_content": "以皆是有相，皆是无常相，皆是苦相，皆是空、无我相，皆是不生不灭相，事无异故名为“等”。"
+      },
+      {
+        "txt_index": 263,
+        "original_content": "“不等”者，各各别相故。如色相，无色相，坚相，湿相，如是等各异不同，是名“不等”。"
+      },
+      {
+        "txt_index": 264,
+        "original_content": "菩萨不见等与不等，何以故？"
+      },
+      {
+        "txt_index": 265,
+        "original_content": "一切法无故，自性空故无法，无法故不可见，不可见故无等、不等。"
+      },
+      {
+        "txt_index": 266,
+        "original_content": "等与合，是习相应；不合、不等，是不相应。"
+      },
+      {
+        "txt_index": 267,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 268,
+        "original_content": "何以不说相应竟，然后赞叹？"
+      },
+      {
+        "txt_index": 269,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 270,
+        "original_content": "听者厌懈，是故佛赞叹果报功德，闻者心得悦乐故。"
+      },
+      {
+        "txt_index": 271,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 272,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜，不作是念：‘我当疾得法性，若不得。’何以故？法性非得相故。"
+      },
+      {
+        "txt_index": 273,
+        "original_content": "“舍利弗！菩萨摩诃萨如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 274,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 275,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 276,
+        "original_content": "“法性”者，诸法实相；除心中无明诸结使，以清净实观，得诸法本性，名为“法性”。"
+      },
+      {
+        "txt_index": 277,
+        "original_content": "“性”名真实，以众生邪观故缚，正观故解。"
+      },
+      {
+        "txt_index": 278,
+        "original_content": "菩萨不作是念：“我疾得法性。”何以故？法性无相，无有远近。亦不言“我久久当得”，何以故？法性无迟无久。"
+      },
+      {
+        "txt_index": 279,
+        "original_content": "“法性”义，如：“如、法性、实际”义中说。"
+      },
+      {
+        "txt_index": 280,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 281,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，不见有法出法性者。"
+      },
+      {
+        "txt_index": 282,
+        "original_content": "“如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 283,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 284,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 285,
+        "original_content": "无明等诸烦恼入一切法中故，失诸法自性；自性失故，皆邪曲不正。"
+      },
+      {
+        "txt_index": 286,
+        "original_content": "圣人除却无明等，诸法实性还得明显；譬如阴云覆虚空清净性，除阴云，则虚空清净性现。"
+      },
+      {
+        "txt_index": 287,
+        "original_content": "若有法无明不入者，是则出于法性；但是事不然！"
+      },
+      {
+        "txt_index": 288,
+        "original_content": "无有法出无明者，是故菩萨不见是法出法性者。"
+      },
+      {
+        "txt_index": 289,
+        "original_content": "譬如众流，皆归于海；如粟散小王，皆属转轮圣王；如众小明皆属于日。"
+      },
+      {
+        "txt_index": 290,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 291,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，不作是念：‘法性分别诸法。’"
+      },
+      {
+        "txt_index": 292,
+        "original_content": "“如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 293,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 294,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 295,
+        "original_content": "何以故不作是念：“法性分别诸法”？"
+      },
+      {
+        "txt_index": 296,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 297,
+        "original_content": "为着法性、贵于法性，以是因缘生诸结使，是故不作是念。"
+      },
+      {
+        "txt_index": 298,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 299,
+        "original_content": "若法性空，一相无相，云何分别诸法？"
+      },
+      {
+        "txt_index": 300,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 301,
+        "original_content": "得是法性，灭无明等诸烦恼破诸法实相者，然后心清净，智慧明了，知诸法实；随法性者为善，不随法性者为不善。"
+      },
+      {
+        "txt_index": 302,
+        "original_content": "如婆蹉梵志问佛世尊：“天地间有善恶、好丑不？”"
+      },
+      {
+        "txt_index": 303,
+        "original_content": "佛言：“有。”"
+      },
+      {
+        "txt_index": 304,
+        "original_content": "婆蹉言：“我久归命佛，愿为我善说！”"
+      },
+      {
+        "txt_index": 305,
+        "original_content": "佛言：“有三种恶、三种善；十种恶、十种善，所谓贪欲是恶，除贪是善；瞋恚、愚痴是恶，除恚痴是善。杀生是恶，除杀生是善；乃至邪见是恶，除邪见是善。能如实分别善、恶，是我弟子，入于法性，名为得道。”"
+      },
+      {
+        "txt_index": 306,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 307,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，不作是念：‘是法能得法性，若不得。’何以故？是菩萨不见用是法能得法性，若不得。"
+      },
+      {
+        "txt_index": 308,
+        "original_content": "“舍利弗！菩萨摩诃萨如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 309,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 310,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 311,
+        "original_content": "云何“得法性”？行八圣道分，得诸法实相，所谓涅槃，是名“得法性”。"
+      },
+      {
+        "txt_index": 312,
+        "original_content": "复次，“性”名诸法实相；“法”名般若波罗蜜。"
+      },
+      {
+        "txt_index": 313,
+        "original_content": "菩萨不作是念：“行般若波罗蜜得是诸法性。”何以故？般若波罗蜜及诸法性，是二法无有异，皆毕竟空故，云何以般若波罗蜜得达法性？"
+      },
+      {
+        "txt_index": 314,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 315,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，法性不与空合，空不与法性合。"
+      },
+      {
+        "txt_index": 316,
+        "original_content": "“如是习应，是名与般若波罗蜜相应。”"
+      },
+      {
+        "txt_index": 317,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 318,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 319,
+        "original_content": "菩萨不观法性是空，不观空是法性。"
+      },
+      {
+        "txt_index": 320,
+        "original_content": "行空得法性，缘法性得空，以是故无异。"
+      },
+      {
+        "txt_index": 321,
+        "original_content": "所以者何？是二毕竟空故。"
+      },
+      {
+        "txt_index": 322,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 323,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，眼界不与空合，空不与眼界合；色界不与空合，空不与色界合；眼识界不与空合，空不与眼识界合；乃至意界不与空合，空不与意界合；法界不与空合，空不与法界合；意识界不与空合，空不与意识界合。是故，舍利弗！是空相应，名为第一相应。”"
+      },
+      {
+        "txt_index": 324,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 325,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 326,
+        "original_content": "眼界不与空合、空不与眼界合者，眼是有，空是无，空、有云何合？"
+      },
+      {
+        "txt_index": 327,
+        "original_content": "复次，菩萨种种因缘分别：散灭是眼，眼则空；空无眼名，因本故有眼空。空亦无分别：是眼空，是非眼空。是则眼不与空合。"
+      },
+      {
+        "txt_index": 328,
+        "original_content": "又空不从眼因缘生，何以故？是二法本自空故。"
+      },
+      {
+        "txt_index": 329,
+        "original_content": "乃至意识界亦如是。"
+      },
+      {
+        "txt_index": 330,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 331,
+        "original_content": "此中何以不说五众等诸法，但说十八界？"
+      },
+      {
+        "txt_index": 332,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 333,
+        "original_content": "应说，或时诵写者忘失。"
+      },
+      {
+        "txt_index": 334,
+        "original_content": "复有人言：若说十八界，则摄一切法。有众生于心色中错，心法中不错，应闻十八界得度，是故但说十八界。"
+      },
+      {
+        "txt_index": 335,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 336,
+        "original_content": "何以名为第一相应？"
+      },
+      {
+        "txt_index": 337,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 338,
+        "original_content": "空是十方诸佛深奥之藏，唯一涅槃门，更无余门，能破诸邪见戏论；是相应不可坏，不可破，是故名为第一。"
+      },
+      {
+        "txt_index": 339,
+        "original_content": "复次，佛自说第一因缘，所谓"
+      },
+      {
+        "txt_index": 340,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 341,
+        "original_content": "“舍利弗！空行菩萨摩诃萨不堕声闻、辟支佛地，能净佛土，成就众生，疾得阿耨多罗三藐三菩提。"
+      },
+      {
+        "txt_index": 342,
+        "original_content": "“舍利弗！诸相应中，般若波罗蜜相应为最第一，最尊、最胜、最妙，为无有上！"
+      },
+      {
+        "txt_index": 343,
+        "original_content": "“何以故？是菩萨摩诃萨行般若波罗蜜相应，所谓空、无相、无作，当知是菩萨如受记无异，若近受记。"
+      },
+      {
+        "txt_index": 344,
+        "original_content": "“舍利弗！菩萨摩诃萨如是相应者，能为无量阿僧祇众生作益厚。"
+      },
+      {
+        "txt_index": 345,
+        "original_content": "“是菩萨摩诃萨，亦不作是念：‘我与般若波罗蜜相应，诸佛当授我记，我当近受记，我当净佛土，我得阿耨多罗三藐三菩提，当转法轮。’"
+      },
+      {
+        "txt_index": 346,
+        "original_content": "“何以故？是菩萨摩诃萨不见有法出法性，亦不见有法行般若波罗蜜，亦不见有法诸佛授记，亦不见有法得阿耨多罗三藐三菩提。"
+      },
+      {
+        "txt_index": 347,
+        "original_content": "“何以故？菩萨摩诃萨行般若波罗蜜时，不生我相、众生相，乃至知者、见者相。"
+      },
+      {
+        "txt_index": 348,
+        "original_content": "“何以故？众生毕竟不生不灭故，众生无有生无有灭；若法无有生相灭相，云何是法当行般若波罗蜜？"
+      },
+      {
+        "txt_index": 349,
+        "original_content": "“如是，舍利弗！菩萨摩诃萨不见众生故，为行般若波罗蜜；众生不受故、众生空故、众生不可得故、众生离故，为行般若波罗蜜。"
+      },
+      {
+        "txt_index": 350,
+        "original_content": "“舍利弗！菩萨摩诃萨于诸相应中为最第一相应，所谓空相应，是空相应胜余相应。"
+      },
+      {
+        "txt_index": 351,
+        "original_content": "“菩萨摩诃萨如是习空，能生大慈大悲。菩萨摩诃萨习是相应，不生悭心，不生犯戒心，不生瞋心，不生懈怠心，不生乱心，不生无智心。”"
+      },
+      {
+        "txt_index": 352,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 353,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 354,
+        "original_content": "“不堕声闻、辟支佛地”者，空相应有二种：一者、但空，二者、不可得空。"
+      },
+      {
+        "txt_index": 355,
+        "original_content": "但行空，堕声闻、辟支佛地；行不可得空，空亦不可得，则无处可堕。"
+      },
+      {
+        "txt_index": 356,
+        "original_content": "复有二种空：一者、无方便空，堕二地；二者、有方便空，则无所堕，直至阿耨多罗三藐三菩提。"
+      },
+      {
+        "txt_index": 357,
+        "original_content": "复次，本有深悲心，入空则不堕；无大悲心则堕。"
+      },
+      {
+        "txt_index": 358,
+        "original_content": "如是等因缘，不堕二地。"
+      },
+      {
+        "txt_index": 359,
+        "original_content": "“能净佛世界、成就众生”者，菩萨住是空相应中，无所复碍；教化众生，令行十善道及诸善法。"
+      },
+      {
+        "txt_index": 360,
+        "original_content": "以众生行善法因缘故，佛土清净；以不杀生故，寿命长；以不劫不盗故，佛土丰乐，应念即至。"
+      },
+      {
+        "txt_index": 361,
+        "original_content": "如是等众生行善法，则佛土庄严。"
+      },
+      {
+        "txt_index": 362,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 363,
+        "original_content": "教化众生则佛土净，何以别说？"
+      },
+      {
+        "txt_index": 364,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 365,
+        "original_content": "众生虽行善，要须菩萨行愿、回向方便力因缘故，佛土清净；如牛力挽车，要须御者，乃得到所至处。以是故别说。"
+      },
+      {
+        "txt_index": 366,
+        "original_content": "“疾得”者，行是空相应，无有障碍，则能疾得阿耨多罗三藐三菩提。"
+      },
+      {
+        "txt_index": 367,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 368,
+        "original_content": "先说“空相应”，今说“般若波罗蜜相应”，后说“无相、无作相应”，有何差别？"
+      },
+      {
+        "txt_index": 369,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 370,
+        "original_content": "有二种空：一者、般若空，二者、非般若空。先言“空相应”，听者疑谓“一切空”，故说是“般若波罗蜜空”。"
+      },
+      {
+        "txt_index": 371,
+        "original_content": "复有人疑：“但言空第一，无相、无作非第一耶？”是故说空、无相、无作相应，亦是第一。何以故？空则是无相，若无相则是无作，如是为一，名字为别。"
+      },
+      {
+        "txt_index": 372,
+        "original_content": "最上故言“尊”；破有故言“胜”；得是相应不复乐余，是为“最妙”。"
+      },
+      {
+        "txt_index": 373,
+        "original_content": "如一切众生中，佛为无上；一切法中，涅槃无上；一切有为法中，善法习相应为无上。"
+      },
+      {
+        "txt_index": 374,
+        "original_content": "余义如〈赞般若品〉中说。"
+      },
+      {
+        "txt_index": 375,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 376,
+        "original_content": "若能行如是空相应，便应受记，云何言“如受记无异，若近受记”？"
+      },
+      {
+        "txt_index": 377,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 378,
+        "original_content": "是菩萨新行道，肉身未得无生法忍，未得般舟三昧，但以智慧力故，能如是分别深入空；佛赞其入空功德，故言“如受记无异”。"
+      },
+      {
+        "txt_index": 379,
+        "original_content": "有三种菩萨：得受记者；如受记者；近受记者。"
+      },
+      {
+        "txt_index": 380,
+        "original_content": "得受记者，如〈阿毗跋致品〉中说；三种，如此中说。"
+      },
+      {
+        "txt_index": 381,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 382,
+        "original_content": "如此说相应，第一无上，云何不与受记？"
+      },
+      {
+        "txt_index": 383,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 384,
+        "original_content": "余功德、方便、禅定等未集，但有智慧，是故未与受记。"
+      },
+      {
+        "txt_index": 385,
+        "original_content": "复次，是菩萨虽复利根智慧，余功德未熟故，闻现前受记，或生憍慢，是故未与受记；所以赞叹者，欲以劝进其心。"
+      },
+      {
+        "txt_index": 386,
+        "original_content": "利根者行是空相应，如受记无异；钝根者行是空相应，若近受记。"
+      },
+      {
+        "txt_index": 387,
+        "original_content": "令众生常安隐、得涅槃，是名“利益”。"
+      },
+      {
+        "txt_index": 388,
+        "original_content": "复有二种利益：一者、离苦，二者、与乐。"
+      },
+      {
+        "txt_index": 389,
+        "original_content": "复有二种：灭众生身苦、心苦。"
+      },
+      {
+        "txt_index": 390,
+        "original_content": "复有三种：天乐、人乐、涅槃乐。"
+      },
+      {
+        "txt_index": 391,
+        "original_content": "复有三种：离三界，入三乘。"
+      },
+      {
+        "txt_index": 392,
+        "original_content": "如是菩萨摩诃萨无量阿僧祇利益众生。"
+      },
+      {
+        "txt_index": 393,
+        "original_content": "“众生”义如先说。"
+      },
+      {
+        "txt_index": 394,
+        "original_content": "世人有大功勋，则生憍心，求其报赏，以求报故，则为不净；菩萨则不然，虽与般若波罗蜜相应，利益无量众生，无我心，无憍慢，故不求功报。"
+      },
+      {
+        "txt_index": 395,
+        "original_content": "如地虽利物功重，不求其报。以是故，说是菩萨不作是念：“我与般若相应，诸佛当受我记，若近受记；我当净佛土，得无上道，转法轮。”"
+      },
+      {
+        "txt_index": 396,
+        "original_content": "“转法轮”义，如先说。"
+      },
+      {
+        "txt_index": 397,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 398,
+        "original_content": "何等法出法性？"
+      },
+      {
+        "txt_index": 399,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 400,
+        "original_content": "此中佛说，所谓“行般若波罗蜜者。”"
+      },
+      {
+        "txt_index": 401,
+        "original_content": "“行般若波罗蜜者”即是菩萨；“知者、见者”，即是众生。"
+      },
+      {
+        "txt_index": 402,
+        "original_content": "法性中众生变为法性；以是故菩萨自不生高心，不从众生求恩分，不见诸佛与受记。"
+      },
+      {
+        "txt_index": 403,
+        "original_content": "如菩萨空，佛亦如是；如行者空，得阿耨多罗三藐三菩提者亦空。何以故？"
+      },
+      {
+        "txt_index": 404,
+        "original_content": "佛自说：“菩萨摩诃萨行般若波罗蜜，不生众生相，乃至知者、见者相。”"
+      },
+      {
+        "txt_index": 405,
+        "original_content": "菩萨行般若波罗蜜，尚不生法相，何况众生相！"
+      },
+      {
+        "txt_index": 406,
+        "original_content": "何以故？佛自说因缘：“是众生毕竟不生，不生故不灭。”"
+      },
+      {
+        "txt_index": 407,
+        "original_content": "若法不生不灭，即是法性相，法性即是般若波罗蜜，云何般若波罗蜜行般若波罗蜜？"
+      },
+      {
+        "txt_index": 408,
+        "original_content": "菩萨“不受众生”者，不受神，但有虚妄计我。"
+      },
+      {
+        "txt_index": 409,
+        "original_content": "“众生空”者，众生法无所有故。"
+      },
+      {
+        "txt_index": 410,
+        "original_content": "“众生不可得”者，以实智求索不可得故。"
+      },
+      {
+        "txt_index": 411,
+        "original_content": "“众生离”者，一切法自相离故。一切离自相者，如火离热相等，如“相空”中广说。"
+      },
+      {
+        "txt_index": 412,
+        "original_content": "第一相应胜余相应，如上说。"
+      },
+      {
+        "txt_index": 413,
+        "original_content": "菩萨行是众生空、法空，深入空相应，忆本愿度众生；见众生狂惑颠倒，于空事中种种生着，即生大悲心：“我虽知是事，余者不知。”以教化故，生大慈大悲。"
+      },
+      {
+        "txt_index": 414,
+        "original_content": "亦能常不生破六波罗蜜法。所以者何？"
+      },
+      {
+        "txt_index": 415,
+        "original_content": "初发心菩萨行六波罗蜜，以六恶杂行故，六波罗蜜不增长；不增长故不疾得道。"
+      },
+      {
+        "txt_index": 416,
+        "original_content": "今知诸法相，拔是六恶法根本。所以者何？"
+      },
+      {
+        "txt_index": 417,
+        "original_content": "菩萨知布施为善，悭心不善，能堕饿鬼贫穷中；知悭贪如是，自惜其身，着世间乐故还生悭心。是菩萨轻物能施，重物不能；外物能，内物不能。以着我、着受者，以取相着财物，以是故破檀波罗蜜，虽有所施而不清净。"
+      },
+      {
+        "txt_index": 418,
+        "original_content": "是菩萨行空相应故，不见我，亦不见世间乐，云何生着而破檀波罗蜜！"
+      },
+      {
+        "txt_index": 419,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 420,
+        "original_content": "若不见我，不见世间乐，故不破，亦应不见檀，云何行布施？"
+      },
+      {
+        "txt_index": 421,
+        "original_content": "答曰："
+      }
+    ]
   },
   "38": {
-    "status": "complete",
+    "status": "incomplete",
     "total_txt_paragraphs": 311,
-    "found_md_segments": 311,
-    "missing_count": 0,
-    "missing_details": []
+    "found_md_segments": 262,
+    "missing_count": 170,
+    "missing_details": [
+      {
+        "txt_index": 97,
+        "original_content": "是菩萨从此间死，彼间生，彼间死，复至彼间生；如是乃至得佛，终不离佛。譬如有福之人，从一大会至一大会。或有是间死，彼间生，于彼以五神通力故，从一佛国至一佛国，供养诸佛，度脱众生——是初菩萨。"
+      },
+      {
+        "txt_index": 98,
+        "original_content": "“佛国”者，十方如恒河沙等诸三千大千世界，是名一佛土。"
+      },
+      {
+        "txt_index": 99,
+        "original_content": "诸佛神力，虽能普遍自在无碍，众生度者有局。"
+      },
+      {
+        "txt_index": 100,
+        "original_content": "“诸佛现在”者，佛现在其佛国土中者。"
+      },
+      {
+        "txt_index": 101,
+        "original_content": "第二菩萨无方便入初禅，乃至行六波罗蜜。"
+      },
+      {
+        "txt_index": 102,
+        "original_content": "“无方便”者，入初禅时，不念众生；住时、起时，亦不念众生，但着禅味，不能与初禅和合行般若波罗蜜，是菩萨慈悲心薄，故功德薄少；功德薄少故，为初禅果报所牵，生长寿天。"
+      },
+      {
+        "txt_index": 103,
+        "original_content": "复次，不能以初禅福德与众生共回向阿耨多罗三藐三菩提。"
+      },
+      {
+        "txt_index": 104,
+        "original_content": "如是等无量无方便义。"
+      },
+      {
+        "txt_index": 105,
+        "original_content": "“长寿天”者，非有想非无想处，寿八万大劫。"
+      },
+      {
+        "txt_index": 106,
+        "original_content": "或有人言：一切无色定，通名长寿天；以无形不可化故，不任得道，常是凡夫处故。"
+      },
+      {
+        "txt_index": 107,
+        "original_content": "或说无想天，名为长寿，亦不任得道故。"
+      },
+      {
+        "txt_index": 108,
+        "original_content": "或说从初禅至四禅，除净居天，皆名长寿，以着味邪见，不能受道者。"
+      },
+      {
+        "txt_index": 109,
+        "original_content": "“还生人间值佛”者，以本发阿耨多罗三藐三菩提心故，或于禅中集诸福德。"
+      },
+      {
+        "txt_index": 110,
+        "original_content": "所以者何？彼间着味，善心难生故。如《经》中说：“如佛问比丘：‘甲头土多？地上土多？’诸比丘言：‘地土甚多，不可为喻！’佛言：‘天上命终，还生人中者，如甲头土，堕地狱者，如地土。’”"
+      },
+      {
+        "txt_index": 112,
+        "original_content": "“钝根”者，二十二根中何者是？"
+      },
+      {
+        "txt_index": 114,
+        "original_content": "有人言：慧根能观诸法，以久受着禅味故钝。"
+      },
+      {
+        "txt_index": 115,
+        "original_content": "有人言：信等五根，皆助成道法，以受报着味故钝。"
+      },
+      {
+        "txt_index": 116,
+        "original_content": "有人言：菩萨清净福德、智慧因缘故，十八根皆利；罪故则钝。"
+      },
+      {
+        "txt_index": 117,
+        "original_content": "眼等六根，如《法华经》说。"
+      },
+      {
+        "txt_index": 118,
+        "original_content": "命根不为老、病、贫、穷等所恼，安隐受乐，是为命根利。"
+      },
+      {
+        "txt_index": 119,
+        "original_content": "喜、乐等五根了了觉知，故言利。"
+      },
+      {
+        "txt_index": 120,
+        "original_content": "复次，受乐时知乐无常等过随逐，不生贪欲故利；余受亦如是。"
+      },
+      {
+        "txt_index": 121,
+        "original_content": "信根牢坚深固，难事能信，故言利。余亦应如是随相分别。"
+      },
+      {
+        "txt_index": 122,
+        "original_content": "男根净者，得阴藏相；不着细滑故，知欲为过，是为利。"
+      },
+      {
+        "txt_index": 123,
+        "original_content": "复次，三善根利，故名为利；菩萨或时于三无漏根不证实际故利。"
+      },
+      {
+        "txt_index": 124,
+        "original_content": "与利相违故钝。"
+      },
+      {
+        "txt_index": 126,
+        "original_content": "第三菩萨若能舍禅，云何言“无方便”？"
+      },
+      {
+        "txt_index": 128,
+        "original_content": "是菩萨命终时，入不善心，舍诸禅定方便。"
+      },
+      {
+        "txt_index": 129,
+        "original_content": "菩萨若入欲界系善心、若无记心而舍诸禅，入慈悲心，怜愍众生，作是念：“我若随禅定生，不能广利益众生。”"
+      },
+      {
+        "txt_index": 130,
+        "original_content": "生欲界者，有十处：四天下人，六欲天。三恶道，菩萨所不生。"
+      },
+      {
+        "txt_index": 131,
+        "original_content": "钝根者，如第二菩萨说。"
+      },
+      {
+        "txt_index": 132,
+        "original_content": "第四菩萨，入位得菩萨道，修三十七品，能住十八空，乃至大慈大悲，此名方便。"
+      },
+      {
+        "txt_index": 133,
+        "original_content": "上二菩萨，但有禅定，直行六波罗蜜，以是故无方便。"
+      },
+      {
+        "txt_index": 134,
+        "original_content": "第四菩萨，方便力故，不随禅定无量心生。所以者何？行四念处乃至大慈大悲故；命终时怜愍众生，愿生他方现在佛国，续与般若波罗蜜相应。所以者何？爱乐随顺般若波罗蜜故。"
+      },
+      {
+        "txt_index": 136,
+        "original_content": "此是何等菩萨？"
+      },
+      {
+        "txt_index": 138,
+        "original_content": "佛自说跋陀劫中菩萨，或有非跋陀劫中菩萨，但取其大者。"
+      },
+      {
+        "txt_index": 140,
+        "original_content": "云何名跋陀？云何名劫？"
+      },
+      {
+        "txt_index": 142,
+        "original_content": "如《经》说：“有一比丘问佛言：‘世尊！几许名劫？’佛告比丘：‘我虽能说，汝不能知，当以譬喻可解：有方百由旬城，溢满芥子，有长寿人过百岁，持一芥子去，芥子都尽，劫犹不澌。’”“又如方百由旬石，有人百岁，持迦尸轻软叠衣一来拂之，石尽，劫犹不澌。”"
+      },
+      {
+        "txt_index": 143,
+        "original_content": "时中最小者，六十念中之一念；大时名劫。"
+      },
+      {
+        "txt_index": 144,
+        "original_content": "劫有二种：一为大劫，二为小劫。"
+      },
+      {
+        "txt_index": 145,
+        "original_content": "大劫者，如上譬喻。"
+      },
+      {
+        "txt_index": 146,
+        "original_content": "劫欲尽时，众生自然心乐远离；乐远离故，除五盖，入初禅，是人离生喜乐。从是起已，举声大唱言：“诸众生！甚可恶者是五欲，第一安隐者是初禅。”众生闻是唱已，一切众生心皆自然远离五欲，入于初禅；自然灭觉观，入第二禅，亦如是唱；或离二禅、三禅亦如是。三恶道众生，自然得善心，命终皆生人中；若重罪者，生他方地狱，如〈泥犁品〉中说。是时三千大千世界，无一众生在者；尔时，二日出，乃至七日出，三千大千世界地，尽皆烧尽。如“十八空”中，广说劫生灭相。"
+      },
+      {
+        "txt_index": 147,
+        "original_content": "复有人言：四大中三大有所动作，故有三种劫：或时火劫起，烧三千大千世界，乃至初禅四处；或时水劫起，漂坏三千大千世界，乃至二禅八处；或时风劫起，吹坏三千大千世界，乃至三禅十二住处。"
+      },
+      {
+        "txt_index": 148,
+        "original_content": "是名大劫。"
+      },
+      {
+        "txt_index": 149,
+        "original_content": "小劫亦三种：外三大发，故世界灭；内三毒发，故众生灭，所谓饥饿、刀兵、疾病。"
+      },
+      {
+        "txt_index": 150,
+        "original_content": "复有人言：时节岁数，名为小劫。如《法华经》中说：“舍利弗作佛时，正法住世二十小劫，像法住世二十小劫”；“佛从三昧起，于六十小劫中说《法华经》，是众小劫和合，名为大劫。”"
+      },
+      {
+        "txt_index": 151,
+        "original_content": "“劫簸”，秦言分别时节。"
+      },
+      {
+        "txt_index": 152,
+        "original_content": "“跋陀”者，秦言善。"
+      },
+      {
+        "txt_index": 153,
+        "original_content": "有千万劫过去，空无有佛；是一劫中有千佛兴，诸净居天欢喜，故名为善劫。"
+      },
+      {
+        "txt_index": 154,
+        "original_content": "净居天何以知此劫当有千佛？前劫尽已，廓然都空；后有大水，水底涌出有千枚七宝光明莲华，是千佛之相；净居诸天，因是知有千佛。"
+      },
+      {
+        "txt_index": 155,
+        "original_content": "以是故说“是菩萨于此劫中得阿耨多罗三藐三菩提”。"
+      },
+      {
+        "txt_index": 157,
+        "original_content": "“舍利弗！有菩萨摩诃萨，入初禅乃至第四禅，入慈心乃至舍，入空处乃至非有想非无想处；以方便力故不随禅生，还生欲界若刹利大姓、婆罗门大姓、居士大家，成就众生故。”"
+      },
+      {
+        "txt_index": 160,
+        "original_content": "菩萨有二种：一者、随业生，二者、得法性身。为度众生故，种种变化身生三界，具佛功德，度脱众生；故二者之中，今是何者？"
+      },
+      {
+        "txt_index": 162,
+        "original_content": "是菩萨，是业因缘生身。所以者何？入诸禅方便力故，不随禅生。法身菩萨变化自在，则不大须方便。"
+      },
+      {
+        "txt_index": 163,
+        "original_content": "入禅方便义，先已说。"
+      },
+      {
+        "txt_index": 165,
+        "original_content": "若不随禅定，何以生于欲界，不生他方清净世界？"
+      },
+      {
+        "txt_index": 167,
+        "original_content": "诸菩萨行各不同；或有菩萨于禅转心，生他方佛国；菩萨回心生欲界，亦如是。"
+      },
+      {
+        "txt_index": 169,
+        "original_content": "生他方佛国者，为是欲界、非欲界？"
+      },
+      {
+        "txt_index": 171,
+        "original_content": "他方佛国，杂恶不净者，则名欲界。"
+      },
+      {
+        "txt_index": 172,
+        "original_content": "若清净者，则无三恶道、三毒，乃至无三毒之名，亦无二乘之名，亦无女人。一切人皆有三十二相，无量光明，常照世间；一念之顷，作无量身，到无量如恒河沙等世界，度无量阿僧祇众生，还来本处。如是世界在地上，故不名色界；无欲故，不名欲界；有形色故，不名无色界。"
+      },
+      {
+        "txt_index": 173,
+        "original_content": "诸大菩萨福德清净业因缘故，别得清净世界，出于三界。"
+      },
+      {
+        "txt_index": 174,
+        "original_content": "或有以大慈大悲心怜愍众生故，生此欲界。"
+      },
+      {
+        "txt_index": 176,
+        "original_content": "若命终时，舍此禅定，初何以求学？"
+      },
+      {
+        "txt_index": 178,
+        "original_content": "欲界心狂不定，为柔软摄心故入禅；命终时，为度众生起欲界心。"
+      },
+      {
+        "txt_index": 180,
+        "original_content": "若生人中，何以故正生刹利等大家，不生余处？"
+      },
+      {
+        "txt_index": 182,
+        "original_content": "生刹利，为有势力；生婆罗门家，为有智慧；生居士家，为大富故，能利益众生。贫穷中自不能利，何能益人？"
+      },
+      {
+        "txt_index": 183,
+        "original_content": "生欲界天，次当说。"
+      },
+      {
+        "txt_index": 185,
+        "original_content": "“舍利弗！复有菩萨摩诃萨，入初禅乃至第四禅，入慈心乃至舍，入空处乃至非有想非无想处，以方便力故不随禅生；或生四天王天处，或生三十三天，夜摩天、兜率陀天、化乐天、他化自在天。于是中成就众生、亦净佛世界，常值诸佛。”"
+      },
+      {
+        "txt_index": 187,
+        "original_content": "是义同上，生天为异。"
+      },
+      {
+        "txt_index": 189,
+        "original_content": "欲界诸天，情着五欲，难可化度，菩萨何以生彼，而不生人中？"
+      },
+      {
+        "txt_index": 191,
+        "original_content": "诸天着心虽大，菩萨方便力亦大。如说三十三天上，有须浮摩树林，天中圣天，厌舍五欲，在中止住，化度诸天。"
+      },
+      {
+        "txt_index": 192,
+        "original_content": "兜率天上，恒有一生补处，诸菩萨常得闻法。"
+      },
+      {
+        "txt_index": 193,
+        "original_content": "密迹金刚力士，亦在四天王天上。"
+      },
+      {
+        "txt_index": 194,
+        "original_content": "如是等教化诸天。"
+      },
+      {
+        "txt_index": 196,
+        "original_content": "“复次，舍利弗！有菩萨摩诃萨，行般若波罗蜜，以方便力入初禅，此间命终，生梵天处，作大梵天王。从梵天处，游一佛国至一佛国，在所有诸佛得阿耨多罗三藐三菩提，未转法轮者，劝请令转。”"
+      },
+      {
+        "txt_index": 198,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 199,
+        "original_content": "若随初禅生，有何方便？"
+      },
+      {
+        "txt_index": 200,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 201,
+        "original_content": "虽生而不着味，念佛道，忆本愿，入慈心，念佛三昧，时与禅和合，故名为方便。"
+      },
+      {
+        "txt_index": 202,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 203,
+        "original_content": "何以故作梵王？"
+      },
+      {
+        "txt_index": 204,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 205,
+        "original_content": "菩萨集福德因缘大故，世世常为物主，乃至生鹿中，亦为其王。"
+      },
+      {
+        "txt_index": 206,
+        "original_content": "复次，是菩萨本愿，欲请佛转法轮，不应作散天。"
+      },
+      {
+        "txt_index": 207,
+        "original_content": "或时此中三千大千世界无佛，从一佛国至一佛国，求见初成佛未转法轮者。所以者何？梵天王法，常应劝请诸佛转法轮故。"
+      },
+      {
+        "txt_index": 209,
+        "original_content": "“舍利弗！有菩萨摩诃萨三生补处，行般若波罗蜜，以方便力入初禅乃至第四禅，入慈心乃至舍，入空处乃至非有想非无想处，修四念处乃至八圣道分，入空三昧、无相、无作三昧，不随禅生，生有佛处，修梵行。"
+      },
+      {
+        "txt_index": 210,
+        "original_content": "“若生兜率天上，随其寿终，具足善根，不失正念；与无数百千亿万诸天，围绕恭敬，来生此间，得阿耨多罗三藐三菩提。”"
+      },
+      {
+        "txt_index": 212,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 213,
+        "original_content": "是三生菩萨，在十住地，已具足诸功德，今何以修习诸行？"
+      },
+      {
+        "txt_index": 214,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 215,
+        "original_content": "心未入涅槃，要有所行，所谓四禅乃至三三昧。"
+      },
+      {
+        "txt_index": 216,
+        "original_content": "复次，是菩萨于天、人中，示行人法，修行求道。"
+      },
+      {
+        "txt_index": 217,
+        "original_content": "复次，是菩萨虽在十住地，犹有烦恼习在；又于诸法犹有所不知，是故修道。"
+      },
+      {
+        "txt_index": 218,
+        "original_content": "复次，是菩萨虽行深行，三十七品、三解脱门等，犹未取证；今为证故，更修诸行。"
+      },
+      {
+        "txt_index": 219,
+        "original_content": "复次，虽是大菩萨，于佛犹小；譬如大聚火，虽有能照，于日则不现。如《放钵经》中，弥勒菩萨语文殊尸利：“如我后身作佛，如恒河沙等文殊尸利，不知我举足下足事！”以是故，虽在十住，犹应修行。"
+      },
+      {
+        "txt_index": 220,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 221,
+        "original_content": "三生菩萨，何以不广度众生，而要生佛前？"
+      },
+      {
+        "txt_index": 222,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 223,
+        "original_content": "是菩萨所度已多，今垂欲成佛，应在佛前。所以者何？非但度众生得成佛，诸佛深法，应当听闻故。"
+      },
+      {
+        "txt_index": 224,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 225,
+        "original_content": "若为咨问佛事故，在佛前者，何以故释迦文佛作菩萨时，在迦叶佛前，恶口毁呰？"
+      },
+      {
+        "txt_index": 226,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 227,
+        "original_content": "是事先已说，法身菩萨，种种变化身以度众生。"
+      },
+      {
+        "txt_index": 228,
+        "original_content": "或时行人法，有饥渴、寒热、老病，憎爱、瞋喜、赞叹、呵骂等，除诸重罪，余者皆行。"
+      },
+      {
+        "txt_index": 229,
+        "original_content": "是释迦文菩萨，尔时为迦叶佛弟，名郁多罗。兄智慧熟，不好多语；弟智慧未备故，多好论议；时人谓弟为胜。兄后出家，得成佛道，号名迦叶；弟为阎浮提王讫梨机师，有五百弟子，以婆罗门书，教授诸婆罗门，诸婆罗门等不好佛法。尔时，有一陶师，名难陀婆罗，迦叶佛五戒弟子，得三道，与王师郁多罗为善友，以其心善净信故。尔时，郁多罗，乘金车，驾四白马，与弟子俱出城门；难提婆罗于路相逢，郁多罗问言：从何所来？答言：“汝兄得阿耨多罗三藐三菩提，我供养还，汝可共行觐见于佛，故来相迎！”郁多罗作是念：若我径到佛所，我诸弟子当生疑怪，汝本论议、智慧恒胜，今往供养，将是亲属爱故，必不随我。恐破其见佛因缘故，住诸法实相智中，入无上方便慧度众弟子故，口出恶言：“此秃头人，何能得菩提道！”"
+      },
+      {
+        "txt_index": 230,
+        "original_content": "尔时，难提婆罗善友，为如瞋状，捉头挽言：“汝不得止！”郁多罗语弟子言：“其事如是，吾不得止！”即时师徒俱行诣佛；见佛光相，心即清净，前礼佛足，在一面坐。佛为随意说法，郁多罗得无量陀罗尼门，诸三昧门皆开；五百弟子还发阿耨多罗三藐三菩提心。郁多罗从坐起，白佛言：“愿佛听我出家作比丘！”佛言：“善来！”即成沙门。"
+      },
+      {
+        "txt_index": 231,
+        "original_content": "以是方便故，现出恶言，非是实也。虚空可破，水可作火，火可作水，三生菩萨于凡夫中瞋心叵得，何况于佛！"
+      },
+      {
+        "txt_index": 232,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 233,
+        "original_content": "若尔者，佛何以受第八罪报六年苦行？"
+      },
+      {
+        "txt_index": 234,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 235,
+        "original_content": "小乘法与大乘法异，若无异者，不应有大、小。"
+      },
+      {
+        "txt_index": 236,
+        "original_content": "小乘法中，不说法身菩萨秘奥深法，无量不可思议神力；多说断结使、直取涅槃法。"
+      },
+      {
+        "txt_index": 237,
+        "original_content": "复次，若佛不受是第八罪报，有诸天、神、仙、龙、鬼诸长寿者，见有此恶业而不受罪报，谓为无业报因缘；以是故，虽现在无恶业，亦受罪报。"
+      },
+      {
+        "txt_index": 238,
+        "original_content": "又有今世因缘，诸外道等信着苦行，若佛不六年苦行，则人不信，言“是王子串乐，不能苦行”，以是故佛六年苦行。有外道苦行者，或三月、半岁、一岁，无能六年日食一麻一米者；诸外道谓此为苦行之极，是人若言无道，真无道也。于是信受，皆入正道。"
+      },
+      {
+        "txt_index": 239,
+        "original_content": "以是二因缘故，六年苦行，非实罪也。何以故？诸佛断一切不善法、成就一切善法故；佛若实受罪报，不得言“成一切善法，断一切不善法。”"
+      },
+      {
+        "txt_index": 240,
+        "original_content": "复次，小乘法中，佛为小心众生故，说二生菩萨犹恶口毁佛；二生菩萨，尚不骂小儿，云何实毁佛！皆是方便为众生故。何以知之？"
+      },
+      {
+        "txt_index": 241,
+        "original_content": "是释迦文佛，毗婆尸佛时作大婆罗门，见佛众僧食疾而发是言：“如是人辈，应食马麦！”因此罪故，堕黑绳等地狱，受无量世苦已；余罪因缘，虽成佛道，而三月食马麦。"
+      },
+      {
+        "txt_index": 242,
+        "original_content": "又声闻法中说：佛过三阿僧祇劫，常为男子，常生贵处，常不失诸根，常识宿命，常不堕三恶道中；从毗婆尸佛来，九十一劫。如汝法，九十劫中，不应堕恶道，何况末后一劫！"
+      },
+      {
+        "txt_index": 243,
+        "original_content": "以是故知非是实也，方便故说。"
+      },
+      {
+        "txt_index": 244,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 245,
+        "original_content": "佛二罪，毗尼、杂藏中说，是可信受。三阿僧祇后百劫不堕恶道者，从初阿僧祇亦不应堕恶道，若不堕者，何以但说百劫？佛无是说，但是《阿毗昙鞞婆沙》论议师说！"
+      },
+      {
+        "txt_index": 246,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 247,
+        "original_content": "《阿毗昙》是佛说，汝声闻人随《阿毗昙》论议，是名《鞞婆沙》，不应有错！"
+      },
+      {
+        "txt_index": 248,
+        "original_content": "又如薄拘卢，以一诃梨勒果施僧，于九十一劫中不堕恶道，何况菩萨无量世来以身布施，修诸功德，而以小罪因缘堕在地狱！"
+      },
+      {
+        "txt_index": 249,
+        "original_content": "如是事，《鞞婆沙》不应错！以是故，小乘人不知菩萨方便。"
+      },
+      {
+        "txt_index": 250,
+        "original_content": "复次，听汝《鞞婆沙》不错，佛自说菩萨本起：菩萨初生时，行七步，口自说言：“我所以生者，为度众生故。”言已，默然。乳餔三年，不行、不语；渐次长大，行、语如法。一切婴孩，小时未能行、语，渐次长大，能具人法；今云何菩萨初生，能行、能语、后便不能？当知是方便力故。若受是方便，一切佛语悉皆得通；若不受者，一实一虚！"
+      },
+      {
+        "txt_index": 251,
+        "original_content": "如是种种因缘，知为度众生故，现行恶口。"
+      },
+      {
+        "txt_index": 252,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 253,
+        "original_content": "三生菩萨，何以但生兜率天上，不生余处？"
+      },
+      {
+        "txt_index": 254,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 255,
+        "original_content": "若在他方世界来者，诸长寿天、龙鬼神求其来处不能知，则生疑心，谓为幻化。"
+      },
+      {
+        "txt_index": 256,
+        "original_content": "若在人中死人中生，然后作佛者，人起轻慢，天则不信——法应天来化人，不应人化天也！是故天上来生，则是从天为人，人则敬信。"
+      },
+      {
+        "txt_index": 257,
+        "original_content": "无色界中无形，不得说法，故不在中生。"
+      },
+      {
+        "txt_index": 258,
+        "original_content": "色界中虽有色身可为说法，而深着禅味，不能大利益众生故，是故不在中生。"
+      },
+      {
+        "txt_index": 259,
+        "original_content": "下三欲天，深厚结使，粗心错乱；上二天结使既厚，心软不利。"
+      },
+      {
+        "txt_index": 260,
+        "original_content": "兜率天上，结使薄，心软利，常是菩萨住处。譬如太子将登王位，先于静室，七日斋洁，然后登正殿受王位。补处菩萨亦如是，兜率天上如斋处，于彼末后受天乐；寿终来下，末后受人乐，便成阿毗三佛。无量百千万亿诸天围绕，来生是间；以菩萨先常于无始生死中，往反天上人间，今是末后天身，不复更来生天，是故咸皆侍送。菩萨于彼寿尽，当下作佛；诸天寿有尽者、不尽者，作愿下生，为菩萨檀越。"
+      },
+      {
+        "txt_index": 261,
+        "original_content": "复次，“诸天下”者，欲常侍卫菩萨，以有百亿魔怨，恐来恼乱菩萨故。此菩萨生人中，厌老、病、死，出家，得阿耨多罗三藐三菩提，如《菩萨本起经》中说。"
+      },
+      {
+        "txt_index": 262,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 263,
+        "original_content": "“复次，舍利弗！有菩萨摩诃萨得六神通，不生欲界、色界、无色界；从一佛国至一佛国，供养恭敬尊重赞叹诸佛。"
+      },
+      {
+        "txt_index": 264,
+        "original_content": "“舍利弗！有菩萨摩诃萨游戏神通，从一佛国至一佛国，所至到处，无有声闻、辟支佛乘，乃至无二乘之名。"
+      },
+      {
+        "txt_index": 265,
+        "original_content": "“舍利弗！有菩萨摩诃萨游戏神通，从一佛国至一佛国，所至到处，其寿无量。"
+      },
+      {
+        "txt_index": 266,
+        "original_content": "“舍利弗！有菩萨摩诃萨游戏神通，从一佛国至一佛国，所至到处，有无佛、法、僧处，赞佛、法、僧功德；诸众生等以闻佛名、法名、僧名故，于此命终，生诸佛前。”"
+      },
+      {
+        "txt_index": 267,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 269,
+        "original_content": "菩萨有二种：一者、生身菩萨，二者、法身菩萨。"
+      },
+      {
+        "txt_index": 270,
+        "original_content": "一者、断结使，二者、不断结使。"
+      },
+      {
+        "txt_index": 271,
+        "original_content": "法身菩萨断结使，得六神通；生身菩萨不断结使，或离欲得五神通。"
+      },
+      {
+        "txt_index": 272,
+        "original_content": "“得六神通”者，不生三界，游诸世界，供养十方诸佛。"
+      },
+      {
+        "txt_index": 273,
+        "original_content": "“游戏神通”者，到十方世界度众生，雨七宝；所至世界，皆一乘清净，寿无量阿僧祇劫。"
+      },
+      {
+        "txt_index": 274,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 275,
+        "original_content": "菩萨法应度众生，何以但至清净无量寿佛世界中？"
+      },
+      {
+        "txt_index": 276,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 277,
+        "original_content": "菩萨有二种：一者、有慈悲心，多为众生；二者、多集诸佛功德。"
+      },
+      {
+        "txt_index": 278,
+        "original_content": "乐多集诸佛功德者，至一乘清净无量寿世界；好多为众生者，至无佛法众处，赞叹三宝之音，如后章说。"
+      },
+      {
+        "txt_index": 279,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 280,
+        "original_content": "“舍利弗！有菩萨摩诃萨初发意时，得初禅乃至第四禅，得四无量心，得四无色定，修四念处乃至十八不共法；是菩萨不生欲界、色界、无色界中，常生有益众生之处。”"
+      },
+      {
+        "txt_index": 281,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 282,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 283,
+        "original_content": "此菩萨或生无佛世界，或生有佛世界。"
+      },
+      {
+        "txt_index": 284,
+        "original_content": "世界不净，有三恶道，贫穷下劣；或生清净世界。"
+      },
+      {
+        "txt_index": 285,
+        "original_content": "至无佛世界，以十善道、四禅乃至四无色定，利益众生；令信向三宝，称说五戒及出家戒，令得禅定、智慧功德。"
+      },
+      {
+        "txt_index": 286,
+        "original_content": "不清净世界有二种：有现在佛，及佛灭度后。"
+      },
+      {
+        "txt_index": 287,
+        "original_content": "佛灭度后，或时出家，或时在家，以财施、法施种种利益众生。"
+      },
+      {
+        "txt_index": 288,
+        "original_content": "若佛在世，作种种因缘引导众生，令至佛所。"
+      },
+      {
+        "txt_index": 289,
+        "original_content": "清净世界者，众生未具功德者，令其满足，是名“在所生处利益众生”。"
+      },
+      {
+        "txt_index": 290,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 291,
+        "original_content": "“舍利弗！有菩萨摩诃萨，初发意时，行六波罗蜜，上菩萨位，得阿毗跋致地。"
+      },
+      {
+        "txt_index": 292,
+        "original_content": "“舍利弗！有菩萨摩诃萨，初发心时，便得阿耨多罗三藐三菩提，转法轮，与无量阿僧祇众生作益厚已，入无余涅槃；是佛般涅槃后，余法若住一劫，若减一劫。"
+      },
+      {
+        "txt_index": 293,
+        "original_content": "“舍利弗！有菩萨摩诃萨，初发意时，与般若波罗蜜相应，与无数百千亿菩萨，从一佛国至一佛国，为净佛世界故。”"
+      },
+      {
+        "txt_index": 294,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 295,
+        "original_content": "释曰："
+      }
+    ]
   },
   "39": {
     "status": "complete",
@@ -273,10 +2146,591 @@
     "missing_details": []
   },
   "40": {
-    "status": "complete",
+    "status": "incomplete",
     "total_txt_paragraphs": 313,
-    "found_md_segments": 313,
-    "missing_count": 0,
-    "missing_details": []
+    "found_md_segments": 316,
+    "missing_count": 145,
+    "missing_details": [
+      {
+        "txt_index": 75,
+        "original_content": "已说佛眼；今说佛眼所用：是眼无法不见、不闻、不知、不识。"
+      },
+      {
+        "txt_index": 76,
+        "original_content": "复次，有人谓：“十住菩萨与佛无有差别，如遍吉、文殊师利、观世音等，具足佛十力功德等而不作佛，为广度众生故。”是故生疑。以是故说佛眼相。"
+      },
+      {
+        "txt_index": 152,
+        "original_content": "是菩萨初发意，行般若波罗蜜，渐行余功德，所谓檀波罗蜜等。菩萨住檀波罗蜜，修治萨婆若道，观一切法毕竟空，不生悭贪心；以是二事故，开萨婆若道。"
+      },
+      {
+        "txt_index": 153,
+        "original_content": "所以者何？毕竟空中，无有悭贪；悭贪根本断故，具足檀波罗蜜；具足檀波罗蜜故，庄严般若波罗蜜。乃至般若波罗蜜毕竟空故，常不生痴心。所以者何？此中佛自说：一切法不来不去，无施无受故，乃至不智不愚故。"
+      },
+      {
+        "txt_index": 155,
+        "original_content": "若能如是观，行六波罗蜜，得何等利益？"
+      },
+      {
+        "txt_index": 157,
+        "original_content": "此中佛自说："
+      },
+      {
+        "txt_index": 158,
+        "original_content": "此菩萨不念有所施与、无所施与。若念有施，入虚妄法中；又着布施，心生憍慢。若念无所施，即堕邪见中。"
+      },
+      {
+        "txt_index": 159,
+        "original_content": "是布施论议，是佛法中初门，云何言无？乃至不念有痴、有慧！是人如金刚山，四面风起，不能令动。是菩萨尔时，若有骂詈、赞叹，心无有异。何以故？此中佛自说：“无生法中无有骂者、无有害者、无恭敬者。”声闻、辟支佛，有加害者，不能深有慈悲心，若默然，若远离；菩萨则不然，能深加慈心，爱之如子，方便度之，是故胜一切声闻、辟支佛，而能教化一切众生，忍辱、慈悲、方便深故，随愿清净业因缘故，能净佛世界。是法具足故，不久当得一切种智。"
+      },
+      {
+        "txt_index": 161,
+        "original_content": "“复次，舍利弗！菩萨摩诃萨行般若波罗蜜时，一切众生中生等心。一切众生中生等心已，得一切诸法等；得一切诸法等已，立一切众生于诸法等中。是菩萨摩诃萨，现世为十方诸佛所念，亦为一切菩萨、一切声闻、辟支佛所念。是菩萨在所生处，眼终不见不爱色，乃至意不觉不爱法。如是，舍利弗！菩萨摩诃萨行般若波罗蜜，不减于阿耨多罗三藐三菩提。”"
+      },
+      {
+        "txt_index": 163,
+        "original_content": "释曰："
+      },
+      {
+        "txt_index": 164,
+        "original_content": "佛若广说诸菩萨相，则穷劫不尽，今佛此品末略说其相。是相足为诸菩萨所通行，所谓大慈悲故，初发度一切众生心故，学诸佛等心观众生故，一切法自性空故——如是等因缘故，于一切众生中生等心；得是等心已，得一切诸法等。"
+      },
+      {
+        "txt_index": 165,
+        "original_content": "“一切法等”者，如先说众生等、法等义，今当更说：慈愍四生众生，一心欲利益，名众生等。观四念处亦不见身名为法等；四正勤等诸四法亦如是。"
+      },
+      {
+        "txt_index": 166,
+        "original_content": "复次，念五道中众生，皆没无常老、病、死，是名众生等。行是信等五根，若五神通，一心欲度是众生，是名法等。"
+      },
+      {
+        "txt_index": 167,
+        "original_content": "复次，众生中行忍辱、慈悲等福，功德无量；功德无量故心柔软；心柔软故疾得禅定；修禅定故心如意调柔；心如意调柔故，破世间长短、男女、白黑等，入一相法，所谓无相。得是法等已，令一切众生得是法等。"
+      },
+      {
+        "txt_index": 168,
+        "original_content": "是菩萨得是二等，成就无量福德智慧故，得现世果报，为诸佛所念，余人所念。"
+      },
+      {
+        "txt_index": 169,
+        "original_content": "爱着生念者，皆是虚妄；唯诸佛念，是为实念，不爱着故。是人诸佛尚念，何况声闻、辟支佛、菩萨！声闻、辟支佛断结者犹尚爱念，何况凡夫未离欲者！"
+      },
+      {
+        "txt_index": 170,
+        "original_content": "以菩萨福德因缘生故，得如是等无量今世果报。"
+      },
+      {
+        "txt_index": 171,
+        "original_content": "后世所生处，眼终不见恶色。恶色者，所谓能生苦受；声、香、味、触法，乃至能生忧心者。如六欲天，六情所对净妙五欲，随意欢喜。众生种少福德，生天上如是，何况菩萨福德、实智慧无量无边，为十方诸佛、诸余贤圣所念！"
+      },
+      {
+        "txt_index": 173,
+        "original_content": "说是般若波罗蜜品时，三百比丘从坐起，以所著衣上佛，发阿耨多罗三藐三菩提心；佛尔时微笑，种种色光从口中出。"
+      },
+      {
+        "txt_index": 174,
+        "original_content": "尔时，慧命阿难从坐起，整衣服，合掌，右膝着地，白佛言：“佛何因缘微笑？”"
+      },
+      {
+        "txt_index": 175,
+        "original_content": "佛告阿难：“是三百比丘从是已后，六十一劫当得作佛，皆号名大相。是三百比丘舍此身已，当生阿閦佛国；及六万欲天子，皆发阿耨多罗三藐三菩提心，于弥勒佛法中，出家行佛道。”"
+      },
+      {
+        "txt_index": 176,
+        "original_content": "是时，佛之威神故，此间四部众，见十方面各千佛，是十方世界严净，此娑婆世界所不能及。"
+      },
+      {
+        "txt_index": 177,
+        "original_content": "尔时，十千人作愿言：“我等修净愿行，以净愿行故，当生彼佛世界。”"
+      },
+      {
+        "txt_index": 178,
+        "original_content": "尔时，佛知是善男子深心，而复微笑，种种色光从口中出。"
+      },
+      {
+        "txt_index": 179,
+        "original_content": "阿难整衣服，合掌白佛：“佛何因缘微笑？”"
+      },
+      {
+        "txt_index": 180,
+        "original_content": "佛告阿难：“汝见是十千人不？”"
+      },
+      {
+        "txt_index": 181,
+        "original_content": "阿难言：“见！”佛言：“是十千人于此寿终，当生彼世界，终不离诸佛，后当作佛，皆号庄严王。”"
+      },
+      {
+        "txt_index": 184,
+        "original_content": "如佛结戒，比丘三衣不应少，是诸比丘何以故破尸罗波罗蜜，作檀波罗蜜？"
+      },
+      {
+        "txt_index": 186,
+        "original_content": "有人言：“佛过十二岁，然后结戒，是比丘施衣时未结戒。”"
+      },
+      {
+        "txt_index": 187,
+        "original_content": "有人言：“是比丘有净施衣，心生当受，以是故施。”"
+      },
+      {
+        "txt_index": 188,
+        "original_content": "有人言：“是诸比丘多知多识，即能更得，事不经宿。”"
+      },
+      {
+        "txt_index": 189,
+        "original_content": "复次，有人言：“是诸比丘闻佛说诸菩萨行檀波罗蜜，诸功德力势无量故，得与般若波罗蜜相应，心大踊跃，即以衣施，无复他念，不故破戒。”"
+      },
+      {
+        "txt_index": 190,
+        "original_content": "复次，诸比丘知佛法毕竟空，无所著，断法爱；为世谛故结戒，非第一义。是比丘从佛闻第一义及布施等六波罗蜜，闻诸菩萨种种大威力，愍念众生，为诸烦恼所覆，不能得是菩萨功德；是故生大悲心，为众生故发阿耨多罗三藐三菩提意。以是故，以衣布施。"
+      },
+      {
+        "txt_index": 191,
+        "original_content": "若人以贪欲、瞋恚、怖畏、邪见、不恭敬心，轻佛语而不持戒，是名为破戒；是诸比丘都无此心，是故无破戒罪。"
+      },
+      {
+        "txt_index": 193,
+        "original_content": "佛何以故微笑？"
+      },
+      {
+        "txt_index": 195,
+        "original_content": "笑有种种：有人见妓乐事而笑；有人内怀瞋恚而笑；有人憍慢故笑；有人轻物故笑；有人事办欢喜故笑；有人见不应作而作故笑；有人怀诈扬善故笑；有人见希有事故笑。"
+      },
+      {
+        "txt_index": 196,
+        "original_content": "佛今见比丘以一袈裟施故，未来世中成办佛事，是为希有，以是故笑。"
+      },
+      {
+        "txt_index": 198,
+        "original_content": "阿难何以常问佛笑，而余比丘不问？"
+      },
+      {
+        "txt_index": 200,
+        "original_content": "是诸比丘不亲近佛；又敬难心多，故不敢自问。"
+      },
+      {
+        "txt_index": 201,
+        "original_content": "阿难善知人相，知诸比丘意；又见佛笑，疑故，作是念：“佛无众生相，无有法相，知三界如梦、如幻，今有何事能令佛笑？佛如须弥山王、大地、大海，不以小因缘故动。”以是故问笑因缘。"
+      },
+      {
+        "txt_index": 202,
+        "original_content": "佛告阿难：“业因缘果报相续，不可思议！是三百比丘却后六十一劫，当得作佛，号名大相(施以手举物显示为相故，因以为名)；六十一劫中是人利根，值佛说法，与般若波罗蜜相应故，是诸人疾得作佛。”是诸比丘未得天眼故，自疑不知生何处，恐不能得集诸功德，不得至道；是故佛言：“舍是身，当生阿閦佛世界。”"
+      },
+      {
+        "txt_index": 203,
+        "original_content": "六万欲天子，必是宿世共福德因缘，故与三百比丘，俱发阿耨多罗三藐三菩提心；是弥勒所应度，是故佛说：“弥勒时，当出家。”"
+      },
+      {
+        "txt_index": 204,
+        "original_content": "今佛记诸比丘生阿閦佛世界，故诸人咸欲见诸佛清净世界；是故佛令大众见十方面各千佛。是四众见是清净庄严佛世界，见诸佛身大于须弥山者，一生补处菩萨大众围绕，以梵音声彻无量无边世界；各自鄙薄其身，怜愍众生故，为求无量佛法，作愿生彼佛世界，如清净世界行愿中说。"
+      },
+      {
+        "txt_index": 205,
+        "original_content": "笑因缘，如先说。"
+      },
+      {
+        "txt_index": 206,
+        "original_content": "是十千人于此寿终，当生彼国，随生彼国行业因缘具足故，此间集深厚无量福德故，终不离诸佛。见诸庄严佛世界发心故，皆号庄严王佛。"
+      },
+      {
+        "txt_index": 207,
+        "original_content": "大智度论释叹度品第五"
+      },
+      {
+        "txt_index": 208,
+        "original_content": "【经】"
+      },
+      {
+        "txt_index": 209,
+        "original_content": "尔时，慧命舍利弗、慧命目犍连、慧命须菩提、慧命摩诃迦叶如是等诸多知识比丘，及诸菩萨摩诃萨、诸优婆塞、优婆夷，从坐起，合掌，白佛言：“世尊！摩诃波罗蜜，是菩萨摩诃萨般若波罗蜜！尊波罗蜜、第一波罗蜜、胜波罗蜜、妙波罗蜜、无上波罗蜜、无等波罗蜜、无等等波罗蜜、如虚空波罗蜜，是菩萨摩诃萨般若波罗蜜！"
+      },
+      {
+        "txt_index": 210,
+        "original_content": "“世尊！自相空波罗蜜，是菩萨摩诃萨般若波罗蜜！"
+      },
+      {
+        "txt_index": 211,
+        "original_content": "“世尊！自性空波罗蜜，是菩萨摩诃萨般若波罗蜜！诸法空波罗蜜、无法有法空波罗蜜、开一切功德波罗蜜、成就一切功德波罗蜜、不可坏波罗蜜，是诸菩萨摩诃萨般若波罗蜜！"
+      },
+      {
+        "txt_index": 212,
+        "original_content": "“诸菩萨摩诃萨行是般若波罗蜜，无等等布施，具足无等等檀波罗蜜，得无等等身，得无等等法，所谓阿耨多罗三藐三菩提。"
+      },
+      {
+        "txt_index": 213,
+        "original_content": "“尸罗波罗蜜、羼提波罗蜜、毗梨耶波罗蜜、禅波罗蜜、般若波罗蜜亦如是。"
+      },
+      {
+        "txt_index": 214,
+        "original_content": "“世尊本亦复行此般若波罗蜜，具足无等等六波罗蜜，得无等等法；得无等等色，无等等受、想、行、识，佛转无等等法轮。过去佛亦如是行此般若波罗蜜，具足无等等布施，乃至转无等等法轮。未来世佛亦行此般若波罗蜜，当作无等等布施，乃至当转无等等法轮。"
+      },
+      {
+        "txt_index": 215,
+        "original_content": "“以是故，世尊！菩萨摩诃萨欲度一切法彼岸，当习行般若波罗蜜！"
+      },
+      {
+        "txt_index": 216,
+        "original_content": "“唯，世尊！是行般若波罗蜜菩萨摩诃萨，一切世间天及人、阿修罗，应当礼敬供养！”"
+      },
+      {
+        "txt_index": 217,
+        "original_content": "佛告众弟子及诸菩萨摩诃萨：“如是！如是！诸善男子，行是般若波罗蜜者，一切世间天及人、阿修罗，应当礼敬供养。"
+      },
+      {
+        "txt_index": 218,
+        "original_content": "“何以故？因菩萨来故，出生人道、天道，刹利大姓，婆罗门大姓，居士大家，转轮圣王，四天王天，乃至阿迦尼吒天；出生须陀洹，乃至阿罗汉、辟支佛、诸佛。因菩萨来故，世间便有饮食，衣服、卧具，房舍、灯烛，摩尼、真珠，毗琉璃、珊瑚，金银等诸宝物生。"
+      },
+      {
+        "txt_index": 219,
+        "original_content": "“舍利弗！世间所有乐具，若人中、若天上、若离欲乐，是一切乐具，皆由菩萨有。何以故？舍利弗！菩萨摩诃萨行菩萨道时，住六波罗蜜，自行布施，亦以布施成就众生；乃至自行般若波罗蜜，亦以般若波罗蜜成就众生。"
+      },
+      {
+        "txt_index": 220,
+        "original_content": "“舍利弗！是故菩萨摩诃萨为安乐一切众生故，出现于世。”"
+      },
+      {
+        "txt_index": 221,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 222,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 223,
+        "original_content": "五千比丘中，上有千余上座，所谓沤楼频螺迦叶等；何以止说此四人名？"
+      },
+      {
+        "txt_index": 224,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 225,
+        "original_content": "是四比丘，是现世无量福田。"
+      },
+      {
+        "txt_index": 226,
+        "original_content": "舍利弗是佛右面弟子；目揵连是佛左面弟子；须菩提修无诤定，行空第一；摩诃迦叶行十二头陀第一，世尊施衣分坐，常深心怜愍众生。"
+      },
+      {
+        "txt_index": 227,
+        "original_content": "佛在世时，若有人欲求今世果报者，供养是四人，辄得如愿，是故，是多知多识比丘；及四众，赞般若波罗蜜。"
+      },
+      {
+        "txt_index": 228,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 229,
+        "original_content": "是阿罗汉最后身，所作已办，何以复赞叹般若波罗蜜？"
+      },
+      {
+        "txt_index": 230,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 231,
+        "original_content": "人皆知阿罗汉得无漏道，以菩萨智慧虽大，结使未断故不贵。"
+      },
+      {
+        "txt_index": 232,
+        "original_content": "又以是阿罗汉有慈悲心，助佛扬化，故以之为证。"
+      },
+      {
+        "txt_index": 233,
+        "original_content": "佛道于世间中最大，是般若能与此事，故名为“大波罗蜜”。"
+      },
+      {
+        "txt_index": 234,
+        "original_content": "一切法中智慧第一故，言“尊波罗蜜”。"
+      },
+      {
+        "txt_index": 235,
+        "original_content": "能正导五度，故名“第一波罗蜜”。"
+      },
+      {
+        "txt_index": 236,
+        "original_content": "五度不及，故名为“胜波罗蜜”；如五情不及意。"
+      },
+      {
+        "txt_index": 237,
+        "original_content": "能自利利人，故名为“妙波罗蜜”。"
+      },
+      {
+        "txt_index": 238,
+        "original_content": "一切法中无有过者，故名“无上波罗蜜”。"
+      },
+      {
+        "txt_index": 239,
+        "original_content": "无有法与同者，故名“无等波罗蜜”。"
+      },
+      {
+        "txt_index": 240,
+        "original_content": "诸佛名无等，从般若波罗蜜生，故名“无等等波罗蜜”。"
+      },
+      {
+        "txt_index": 241,
+        "original_content": "是般若波罗蜜毕竟清净，不可以戏论破坏，故名“如虚空波罗蜜”。"
+      },
+      {
+        "txt_index": 242,
+        "original_content": "般若波罗蜜中，一切法自相不可得故，名为“自相空波罗蜜”。"
+      },
+      {
+        "txt_index": 243,
+        "original_content": "此波罗蜜中，一切法自性空故；诸法因缘和合生，无有自性，故名为“自性空波罗蜜”。"
+      },
+      {
+        "txt_index": 244,
+        "original_content": "诸法中无有自法，故名为“诸法空波罗蜜”。"
+      },
+      {
+        "txt_index": 245,
+        "original_content": "以此众生空、法空故，破诸法令无所有；无所有亦无所有，是名“无法有法空波罗蜜”。"
+      },
+      {
+        "txt_index": 246,
+        "original_content": "菩萨行是般若波罗蜜，无有功德而不摄者；如日出时华无不敷，故名“开一切功德波罗蜜”。"
+      },
+      {
+        "txt_index": 247,
+        "original_content": "是菩萨心中般若波罗蜜日出，成就一切诸功德，皆令清净；般若波罗蜜是一切善法之本，是故名为“成就一切功德波罗蜜”。"
+      },
+      {
+        "txt_index": 248,
+        "original_content": "世间无有法能倾动者，故名“不可破坏波罗蜜”。"
+      },
+      {
+        "txt_index": 249,
+        "original_content": "是诸阿罗汉赞叹因缘，所谓三世佛皆从般若波罗蜜生，所谓无比布施，乃至无比智慧；世间中无有与等者，故言“无比”；是六波罗蜜，毕竟清净无有过失，故名为“无比”，“无比”即是“无等等”。"
+      },
+      {
+        "txt_index": 250,
+        "original_content": "复次，“无等等”：诸佛名“无等”；与诸佛等，故名为“无等等”。"
+      },
+      {
+        "txt_index": 251,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 252,
+        "original_content": "三世诸佛中，已有释迦文佛，何以别说？"
+      },
+      {
+        "txt_index": 253,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 254,
+        "original_content": "今座上众，皆由释迦文佛得度，感恩重故别说。如舍利弗说：“我师不出者，我等永为盲冥！”"
+      },
+      {
+        "txt_index": 255,
+        "original_content": "诸阿罗汉知三世诸佛，皆从般若波罗蜜中出；以是故诸阿罗汉说：“世尊！诸菩萨摩诃萨，欲遍知一切法，当习般若波罗蜜。”"
+      },
+      {
+        "txt_index": 256,
+        "original_content": "阿罗汉赞叹菩萨时，心生恭敬，是故说“礼敬供养”。"
+      },
+      {
+        "txt_index": 257,
+        "original_content": "“天、人、阿修罗”者，说三善道；三恶道无所别知，故不说。"
+      },
+      {
+        "txt_index": 258,
+        "original_content": "佛闻罗汉赞叹已，佛印可言：“如是！如是！应当礼敬供养行般若波罗蜜者。”"
+      },
+      {
+        "txt_index": 259,
+        "original_content": "汝虽无一切智慧，而说不错，故重言“如是！如是！”"
+      },
+      {
+        "txt_index": 260,
+        "original_content": "何以故？此中佛自说：“因菩萨故，出生人道、天道，乃至一切诸菩萨，为安乐一切众生故说。”"
+      },
+      {
+        "txt_index": 261,
+        "original_content": "刹利大姓乃至阿迦尼吒，须陀洹乃至诸佛，皆如先说。"
+      },
+      {
+        "txt_index": 262,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 263,
+        "original_content": "若因菩萨，有饮食等及诸宝物，人何以力作求生，受诸辛苦乃得？"
+      },
+      {
+        "txt_index": 264,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 265,
+        "original_content": "饥饿劫时，人虽设其功力，亦无所得，以众生罪重故。"
+      },
+      {
+        "txt_index": 266,
+        "original_content": "菩萨世世赞叹布施、持戒、善心，是三福因缘，故有上、中、下。"
+      },
+      {
+        "txt_index": 267,
+        "original_content": "上者，念便即得；中者，人中尊重，供养自至；下者，施功力乃得。"
+      },
+      {
+        "txt_index": 268,
+        "original_content": "以是故说“因菩萨得”，实而不虚。"
+      },
+      {
+        "txt_index": 269,
+        "original_content": "乐因缘甚多，不可称计；今佛略说：“天乐、人乐、涅槃乐，皆由菩萨得。”"
+      },
+      {
+        "txt_index": 270,
+        "original_content": "此中佛自说：“菩萨住六波罗蜜，自行布施，亦教众生行布施。”虽众生自行布施，无菩萨教导，则不能行。"
+      },
+      {
+        "txt_index": 271,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 272,
+        "original_content": "除解脱乐，此二种乐，是众生生结使处；贪欲因缘故生恚，菩萨何以教导此结使因缘？"
+      },
+      {
+        "txt_index": 273,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 274,
+        "original_content": "菩萨无咎！所以者何？菩萨慈悲清净心，与众生乐因缘，教修福事；若众生不能清净行福德者，于菩萨何咎！如人好心作井，盲人堕中而死，作者无罪！如人设好食施人，不知量者，多食致患，施者无罪！"
+      },
+      {
+        "txt_index": 275,
+        "original_content": "复次，若诸佛菩萨，不教众生作福德因缘，则无天、无人、无阿修罗；但长三恶道，无从罪得出者。"
+      },
+      {
+        "txt_index": 276,
+        "original_content": "复次，众生乐因缘故生贪，贪因缘故生恚，恚因缘故生苦，苦因缘故生罪；今欲免众生于第五罪中，是故与乐。"
+      },
+      {
+        "txt_index": 277,
+        "original_content": "复次，非定乐因缘生贪欲。或正忆念故，乐为善福因缘；邪忆念故生贪欲。今为正忆念乐故，令生福德因缘。"
+      },
+      {
+        "txt_index": 278,
+        "original_content": "复次，唯佛一人无错无失；是菩萨未成就佛道，未得佛眼故，以三种乐故，教化可度众生。诸佛但以解脱乐，教化众生。◎"
+      },
+      {
+        "txt_index": 279,
+        "original_content": "大智度论释舌相品第六"
+      },
+      {
+        "txt_index": 280,
+        "original_content": "◎【经】"
+      },
+      {
+        "txt_index": 281,
+        "original_content": "尔时，世尊出舌相，遍覆三千大千世界。从其舌相，出无数无量色光明，普照十方，如恒河沙等诸佛世界。"
+      },
+      {
+        "txt_index": 282,
+        "original_content": "是时，东方如恒河沙等世界中，无量无数诸菩萨，见是大光明，各各白其佛言：“世尊！是谁神力故，有是大光明，普照诸佛世界？”"
+      },
+      {
+        "txt_index": 283,
+        "original_content": "诸佛告诸菩萨言：“诸善男子！西方有世界，名娑婆，是中有佛，名释迦牟尼；是其舌相出大光明，普照东方如恒河沙等诸佛世界；南西北方、四维、上下，亦复如是；为诸菩萨摩诃萨说般若波罗蜜故。”"
+      },
+      {
+        "txt_index": 284,
+        "original_content": "是时，诸菩萨各白其佛言：“我欲往供养释迦牟尼佛，及诸菩萨摩诃萨，并欲听般若波罗蜜！”"
+      },
+      {
+        "txt_index": 285,
+        "original_content": "诸佛告诸菩萨：“善男子！汝自知时！”"
+      },
+      {
+        "txt_index": 286,
+        "original_content": "是时，诸菩萨摩诃萨持诸供养具、无量华盖、幢幡、璎珞、众香、金银、宝花，向娑婆世界，诣释迦牟尼佛所。"
+      },
+      {
+        "txt_index": 287,
+        "original_content": "尔时，四天王诸天，乃至阿迦尼吒诸天，各持天上天香、末香、泽香，天树香、叶香，天种种莲华——青、赤、红、白，向释迦牟尼佛所。"
+      },
+      {
+        "txt_index": 288,
+        "original_content": "是诸菩萨摩诃萨及诸天所散诸华，于三千大千世界虚空中，化成四柱大宝台，种种异色，庄严分明。"
+      },
+      {
+        "txt_index": 289,
+        "original_content": "是时，释迦牟尼佛众中，有十万亿人皆从坐起，合掌，白佛言：“世尊！我等于未来世中，亦当得如是法，如今释迦牟尼佛！弟子、侍从、大众，说法，亦尔！”"
+      },
+      {
+        "txt_index": 290,
+        "original_content": "是时，佛知善男子至心，于一切诸法，不生、不灭，不出、不作，得是法忍。"
+      },
+      {
+        "txt_index": 291,
+        "original_content": "佛便微笑，种种色光从口中出。"
+      },
+      {
+        "txt_index": 292,
+        "original_content": "阿难白佛言：“世尊！何因缘故微笑？”"
+      },
+      {
+        "txt_index": 293,
+        "original_content": "佛告阿难：“是众中十万亿人，于诸法中得无生忍。是诸人于未来世，过六十八亿劫，当得作佛，劫名华积，佛皆号觉花。”"
+      },
+      {
+        "txt_index": 294,
+        "original_content": "【论】"
+      },
+      {
+        "txt_index": 295,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 296,
+        "original_content": "初品中佛已出舌相，今何以重出？"
+      },
+      {
+        "txt_index": 297,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 298,
+        "original_content": "是事非一日一坐说。"
+      },
+      {
+        "txt_index": 299,
+        "original_content": "前出舌相，为和合大会，度一切众生，舍利弗问，佛答；今此异时，更为余人；须菩提巧说空故，佛命令更说，是故出舌相光明。"
+      },
+      {
+        "txt_index": 300,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 301,
+        "original_content": "舍利弗智慧第一，竟何所少，而复命须菩提？"
+      },
+      {
+        "txt_index": 302,
+        "original_content": "答曰："
+      },
+      {
+        "txt_index": 303,
+        "original_content": "佛弟子众多，一人说已，次命一人；譬如王者，群臣众多，次第共语。"
+      },
+      {
+        "txt_index": 304,
+        "original_content": "问曰："
+      },
+      {
+        "txt_index": 305,
+        "original_content": "若尔者，目连、迦叶等甚多，何以不次第皆与语？"
+      },
+      {
+        "txt_index": 306,
+        "original_content": "答曰："
+      }
+    ]
   }
 }
